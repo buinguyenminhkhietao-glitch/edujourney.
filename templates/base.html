@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}EduJourney{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <header class="navbar">
+        <div class="container nav-inner">
+            <a href="/" class="logo" style="font-size: 1.8rem; text-decoration: none;">
+                <i class="fas fa-graduation-cap" style="color: #3498db; margin-right: 8px;"></i> Edu<span style="color: #3498db;">Journey</span>
+            </a>
+            <nav style="display: flex; gap: 20px;">
+                <a href="/" style="font-weight: 600; color: #2c3e50;"><i class="fas fa-home"></i> Trang chủ</a>
+                <a href="/study" style="font-weight: 600; color: #3498db;"><i class="fas fa-book-open"></i> Học tập</a>
+                <a href="/hsg" style="font-weight: 600; color: #e74c3c;"><i class="fas fa-trophy"></i> HSG</a>
+                <a href="/tin" style="font-weight: 600; color: #2c3e50;"><i class="fas fa-code"></i> Code</a>
+            </nav>
+        </div>
+    </header>
+    <main class="container" style="padding-top: 30px; padding-bottom: 50px;">{% block content %}{% endblock %}</main>
+    <footer class="footer" style="background: #2c3e50; color: #ecf0f1; padding: 30px 0; text-align: center;">
+        <div class="container"><p>© 2026 EduJourney - Dự án Khởi nghiệp Sáng tạo.</p></div>
+    </footer>
+</body>
+</html>

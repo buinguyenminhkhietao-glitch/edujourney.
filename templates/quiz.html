@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>{{ quiz.title }}</h1>
+<form method="post" action="/quiz/{{ quiz_id }}/submit">
+    {% for q in quiz.questions %}
+    {% set q_idx = loop.index0 %}
+    <div class="quiz-question">
+        <h3>Câu {{ loop.index }}: {{ q.q }}</h3>
+        {% for opt in q.options %}
+            {% set o_idx = loop.index0 %}
+            <label class="quiz-option">
+                <input type="radio" name="q{{ q_idx }}" value="{{ o_idx }}" required> {{ 'ABCD'[o_idx] }}. {{ opt }}
+            </label><br>
+        {% endfor %}
+    </div>
+    {% endfor %}
+    <button type="submit" class="btn btn-primary">Nộp bài</button>
+</form>
+{% endblock %}

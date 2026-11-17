@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Kết quả: {{ score }}/{{ total }} ({{ percent }}%)</h1>
+{% for d in details %}
+<div class="result-item {{ 'correct' if d.is_correct else 'wrong' }}">
+    <h3>Câu {{ d.index }}: {{ d.question }}</h3>
+    <p>Đáp án đúng: {{ 'ABCD'[d.correct] }}. {{ d.options[d.correct] }}</p>
+    {% if not d.is_correct %}
+    <p style="color:red">Bạn chọn: {{ 'ABCD'[d.user_ans] if d.user_ans is not none else 'Không chọn' }}</p>
+    <p>Giải thích: {{ d.explain }}</p>
+    {% endif %}
+</div>
+{% endfor %}
+<a href="/quiz/{{ quiz_id }}" class="btn btn-outline">Làm lại</a>
+{% endblock %}
