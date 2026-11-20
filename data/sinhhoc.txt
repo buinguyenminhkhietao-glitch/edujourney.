@@ -1,0 +1,89 @@
+﻿Lớp 6
+Chương 1: Mở đầu về Khoa học tự nhiên (Bài 1 - Bài 8) (phần kính hiển vi & an toàn phòng thí nghiệm)
+•	Ý chính cốt lõi: Giới thiệu khái niệm khoa học tự nhiên, các lĩnh vực chính (Vật lý, Hóa học, Sinh học, Khoa học Trái Đất) và quy định an toàn trong phòng thực hành. Hướng dẫn sử dụng kính lúp, kính hiển vi quang học và kỹ thuật đo bốn đại lượng cơ bản: chiều dài, khối lượng, thời gian, nhiệt độ theo đơn vị chuẩn SI.
+•	Kỹ năng đạt được:
+o	Sử dụng thành thạo thước đo, cân đồng hồ, đồng hồ bấm giây, nhiệt kế và kính hiển vi quang học.
+o	Quy đổi chính xác các đơn vị đo lường và đọc kết quả đo đúng giới hạn đo (GHĐ) và độ chia nhỏ nhất (ĐCNN).
+•	Bài tập tự luyện: Giải thích vì sao khi đo nhiệt độ của một cốc nước nóng bằng nhiệt kế thủy ngân, ta phải đọc kết quả ngay khi bầu nhiệt kế vẫn còn nhúng trong nước?
+Chương 5: Tế bào (Bài 18 - Bài 21)
+•	Ý chính cốt lõi: Khẳng định tế bào là đơn vị cấu trúc và chức năng cơ bản của mọi cơ thể sống. Nghiên cứu cấu tạo ba thành phần chính của tế bào (màng tế bào, chất tế bào, nhân hoặc vùng nhân), phân biệt tế bào nhân sơ với nhân thực, tế bào thực vật với động vật và cơ chế lớn lên, phân chia tế bào.
+•	Kỹ năng đạt được:
+o	Quan sát và vẽ được hình dạng tế bào biểu bì vảy hành tây dưới kính hiển vi quang học.
+o	Tính được số tế bào con tạo thành sau $n$ lần phân chia liên tiếp từ một tế bào mẹ ban đầu ($2^n$).
+•	Bài tập tự luyện: Một tế bào thực vật tiến hành phân chia liên tiếp 4 lần. Hỏi sau quá trình đó tạo ra bao nhiêu tế bào con?
+Chương 6: Từ tế bào đến cơ thể (Bài 22 - Bài 24)
+•	Ý chính cốt lõi: Phân biệt sinh vật đơn bào (cơ thể chỉ cấu tạo từ một tế bào như trùng roi, vi khuẩn) và sinh vật đa bào. Thiết lập sơ đồ năm cấp độ tổ chức trong cơ thể đa bào từ thấp đến cao: Tế bào $\rightarrow$ Mô $\rightarrow$ Cơ quan $\rightarrow$ Hệ cơ quan $\rightarrow$ Cơ thể.
+•	Kỹ năng đạt được:
+o	Nhận diện và lấy được ví dụ minh họa cho từng cấp độ tổ chức ở cơ thể thực vật và cơ thể người.
+o	Quan sát và mô tả được cấu tạo cơ thể đơn bào qua mẫu nước ao hồ.
+•	Bài tập tự luyện: Sắp xếp các đối tượng sau theo thứ tự cấp độ tổ chức từ thấp đến cao: dạ dày, tế bào biểu bì ruột, hệ tiêu hóa, cơ thể người, mô cơ trơn.
+Chương 7: Đa dạng thế giới sống (Bài 25 - Bài 39)
+•	Ý chính cốt lõi: Khám phá hệ thống phân loại sinh vật thành 5 giới (Khởi sinh, Nguyên sinh, Nấm, Thực vật, Động vật) và cách xây dựng khóa lưỡng phân. Nghiên cứu đặc điểm, vai trò và tác hại của vi khuẩn, virus, nguyên sinh vật, nấm, các ngành thực vật (Rêu, Dương xỉ, Hạt trần, Hạt kín) và động vật (Không xương sống, Có xương sống).
+•	Kỹ năng đạt được:
+o	Xây dựng được sơ đồ khóa lưỡng phân đơn giản để phân loại một nhóm sinh vật quen thuộc.
+o	Đề xuất được biện pháp phòng chống các bệnh truyền nhiễm do virus, vi khuẩn và bảo vệ đa dạng sinh học.
+•	Bài tập tự luyện: Phân biệt sự khác nhau cơ bản về đặc điểm sinh sản giữa nhóm thực vật Hạt trần (cây thông) và thực vật Hạt kín (cây bưởi).
+Lớp 7
+Chương 7: Trao đổi chất và chuyển hóa năng lượng ở sinh vật (Bài 21 - Bài 32)
+•	Ý chính cốt lõi: Nghiên cứu quá trình quang hợp ở thực vật (chuyển hóa quang năng thành hóa năng trong chất hữu cơ và giải phóng $\text{O}_2$) và hô hấp tế bào (phân giải chất hữu cơ tạo năng lượng ATP). Tìm hiểu cơ chế hấp thụ nước, khoáng ở rễ, vận chuyển qua mạch gỗ, mạch rây và thoát hơi nước ở lá, cùng hệ tiêu hóa, tuần hoàn ở động vật.
+•	Kỹ năng đạt được:
+o	Viết được phương trình tổng quát của quang hợp và hô hấp tế bào; giải thích ý nghĩa của việc trồng cây xanh và bảo vệ rừng.
+o	Vận dụng kiến thức thoát hơi nước và trao đổi khoáng để chăm sóc, bón phân, tưới nước hợp lý cho cây trồng.
+•	Bài tập tự luyện: Giải thích vì sao vào ban đêm không nên để nhiều chậu cây xanh trong phòng ngủ đóng kín cửa?
+Chương 8: Cảm ứng ở sinh vật (Bài 33 - Bài 35)
+•	Ý chính cốt lõi: Khám phá khả năng tiếp nhận và phản ứng lại các kích thích từ môi trường của sinh vật. Phân biệt các hình thức cảm ứng ở thực vật (tính hướng sáng, hướng nước, hướng trọng lực, hướng tiếp xúc) và tập tính bẩm sinh với tập tính học được ở động vật.
+•	Kỹ năng đạt được:
+o	Giải thích được các hiện tượng cây mọc hướng về phía ánh sáng, rễ cây mọc hướng về nguồn nước.
+o	Ứng dụng tập tính học được để huấn luyện vật nuôi, dẫn dụ côn trùng có hại bảo vệ mùa màng.
+•	Bài tập tự luyện: Cho 2 ví dụ về tập tính bẩm sinh và 2 ví dụ về tập tính học được ở động vật.
+Chương 9: Sinh trưởng và phát triển ở sinh vật (Bài 36 - Bài 38)
+•	Ý chính cốt lõi: Phân biệt hai khái niệm sinh trưởng (tăng kích thước, khối lượng cơ thể) và phát triển (bao gồm sinh trưởng, phân hóa tế bào và phát sinh hình thái). Nghiên cứu mô phân sinh ở thực vật, các kiểu phát triển qua biến thái hoàn toàn (bướm, ếch) và biến thái không hoàn toàn (châu chấu) ở động vật.
+•	Kỹ năng đạt được:
+o	Phân tích được ảnh hưởng của các nhân tố nhiệt độ, ánh sáng, nước, dinh dưỡng đến sinh trưởng và phát triển của sinh vật.
+o	Đề xuất biện pháp tiêu diệt sâu bọ gây hại dựa vào giai đoạn yếu nhất trong vòng đời phát triển của chúng.
+•	Bài tập tự luyện: So sánh quá trình phát triển qua biến thái hoàn toàn ở bướm và biến thái không hoàn toàn ở châu chấu.
+Chương 10: Sinh sản ở sinh vật (Bài 39 - Bài 42)
+•	Ý chính cốt lõi: Nghiên cứu hai hình thức sinh sản cơ bản: sinh sản vô tính (sinh sản sinh dưỡng bằng thân, rễ, lá ở thực vật; phân đôi, nảy chồi ở động vật) và sinh sản hữu tính (có sự kết hợp giữa giao tử đực và giao tử cái qua thụ tinh). Khẳng định cơ thể sinh vật là một thể thống nhất nhờ sự phối hợp nhịp nhàng giữa các cơ quan.
+•	Kỹ năng đạt được:
+o	Thực hiện được kỹ thuật nhân giống vô tính cây trồng bằng phương pháp giâm cành hoặc chiết cành.
+o	Giải thích được ưu thế của sinh sản hữu tính trong việc tạo ra sự đa dạng di truyền giúp sinh vật thích nghi tốt hơn.
+•	Bài tập tự luyện: Vì sao các nhà vườn thường nhân giống cây ăn quả (như cam, bưởi, nhãn) bằng phương pháp chiết cành hoặc ghép mắt thay vì gieo hạt?
+Lớp 8
+Chương 7: Sinh học cơ thể người (Bài 30 - Bài 40)
+•	Ý chính cốt lõi: Khám phá cấu tạo và chức năng của toàn bộ các hệ cơ quan trong cơ thể người: hệ vận động, hệ tiêu hóa và dinh dưỡng, máu và hệ tuần hoàn (nhóm máu ABO, miễn dịch), hệ hô hấp, hệ bài tiết nước tiểu, cơ chế điều hòa môi trường trong (cân bằng nội môi), hệ thần kinh và giác quan, hệ nội tiết, da và hệ sinh dục.
+•	Kỹ năng đạt được:
+o	Thực hiện thành thạo kỹ thuật sơ cứu băng bó cố định xương gãy, cầm máu vết thương và hô hấp nhân tạo.
+o	Xây dựng được khẩu phần ăn dinh dưỡng hợp lý, phòng tránh các bệnh tim mạch, tiểu đường, cận thị và bảo vệ sức khỏe sinh sản vị thành niên.
+•	Bài tập tự luyện: Trình bày nguyên tắc truyền máu cơ bản theo hệ nhóm máu ABO để tránh hiện tượng kết dính hồng cầu.
+Chương 8: Sinh vật và môi trường (Bài 41 - Bài 47)
+•	Ý chính cốt lõi: Nghiên cứu môi trường sống của sinh vật và các nhân tố sinh thái (vô sinh và hữu sinh). Khám phá các cấp độ tổ chức trên cơ thể: quần thể sinh vật (mật độ, tỉ lệ giới tính, cấu trúc tuổi), quần xã sinh vật (độ đa dạng, loài ưu thế), hệ sinh thái (chuỗi thức ăn, lưới thức ăn, tháp sinh thái), sinh quyển và cân bằng tự nhiên.
+•	Kỹ năng đạt được:
+o	Lập được sơ đồ lưới thức ăn hoàn chỉnh trong một hệ sinh thái tự nhiên và xác định sinh vật sản xuất, sinh vật tiêu thụ, sinh vật phân giải.
+o	Đề xuất các giải pháp thiết thực bảo vệ môi trường, ứng phó biến đổi khí hậu và bảo tồn đa dạng sinh học.
+•	Bài tập tự luyện: Cho các sinh vật sau: Cỏ, Châu chấu, Ếch, Rắn, Đại bàng, Vi khuẩn phân giải. Hãy viết một chuỗi thức ăn gồm đầy đủ các mắt xích trên.
+Lớp 9
+Chương 11: Di truyền học Mendel. Cơ sở phân tử của hiện tượng di truyền (Bài 36 - Bài 41)
+•	Ý chính cốt lõi: Nghiên cứu phương pháp phân tích các thế hệ lai và hai quy luật di truyền cơ bản của Mendel (quy luật phân li và quy luật phân li độc lập). Khám phá cấu trúc không gian của phân tử DNA (chuỗi xoắn kép theo nguyên tắc bổ sung $A-T, G-C$), cơ chế tái bản DNA, phiên mã tạo RNA, dịch mã tổng hợp Protein và đột biến gene.
+•	Kỹ năng đạt được:
+o	Viết thành thạo sơ đồ lai một cặp và hai cặp tính trạng từ thế hệ $P$ đến $F_1, F_2$ để xác định tỉ lệ kiểu gene, kiểu hình.
+o	Giải được các bài toán phân tử tính số lượng từng loại nucleotide, chiều dài và số liên kết hydrogen của đoạn DNA.
+•	Bài tập tự luyện: Ở đậu Hà Lan, tính trạng hạt vàng ($A$) trội hoàn toàn so với hạt xanh ($a$). Cho cây hạt vàng thuần chủng lai với cây hạt xanh. Xác định tỉ lệ kiểu gene và kiểu hình ở đời con $F_1$ và $F_2$.
+Chương 12: Di truyền nhiễm sắc thể (Bài 42 - Bài 46)
+•	Ý chính cốt lõi: Nghiên cứu cấu trúc siêu hiển vi và bộ nhiễm sắc thể đặc trưng của loài (bộ lưỡng bội $2n$, bộ đơn bội $n$). Khám phá diễn biến các kì và ý nghĩa của quá trình nguyên phân, giảm phân, cơ chế xác định giới tính qua cặp NST giới tính ($XX, XY$), quy luật di truyền liên kết của Morgan và các dạng đột biến số lượng, cấu trúc NST.
+•	Kỹ năng đạt được:
+o	Phân biệt được cơ chế và kết quả của nguyên phân (tạo 2 tế bào con $2n$) với giảm phân (tạo 4 giao tử $n$).
+o	Giải thích được cơ chế sinh con trai, con gái ở người và nguyên nhân gây ra các hội chứng đột biến NST (như hội chứng Down có 3 NST số 21).
+•	Bài tập tự luyện: Một loài thực vật có bộ nhiễm sắc thể lưỡng bội $2n = 24$. Xác định số lượng nhiễm sắc thể có trong một tế bào sinh dưỡng của loài này ở thể ba nhiễm ($2n + 1$) và thể một nhiễm ($2n - 1$).
+Chương 13: Di truyền học với con người và đời sống (Bài 47 - Bài 48)
+•	Ý chính cốt lõi: Tìm hiểu các bệnh và tật di truyền ở người (bệnh bạch tạng, máu khó đông, tật dính ngón tay) và vai trò của di truyền học tư vấn trong hôn nhân, kế hoạch hóa gia đình (luật Hôn nhân và Gia đình cấm kết hôn cận huyết). Khám phá các ứng dụng vượt bậc của công nghệ di truyền (công nghệ gene tạo sinh vật biến đổi gene, nhân bản vô tính) trong y học và nông nghiệp.
+•	Kỹ năng đạt được:
+o	Phân tích được sơ đồ phả hệ đơn giản để xác định quy luật di truyền của một bệnh trong gia đình.
+o	Đánh giá được lợi ích và các vấn đề an toàn sinh học của sản phẩm biến đổi gene.
+•	Bài tập tự luyện: Giải thích cơ sở khoa học của quy định "Cấm kết hôn giữa những người có cùng dòng máu về trực hệ hoặc có họ trong phạm vi ba đời" trong Luật Hôn nhân và Gia đình.
+Chương 14: Tiến hóa (Bài 49 - Bài 51)
+•	Ý chính cốt lõi: Nghiên cứu khái niệm tiến hóa sinh học, phân biệt chọn lọc nhân tạo (do con người tiến hành phục vụ nhu cầu kinh tế) và chọn lọc tự nhiên (động lực chính của tiến hóa theo học thuyết Darwin thông qua biến dị, di truyền và đấu tranh sinh tồn). Khám phá cơ chế tiến hóa hiện đại và lịch sử phát sinh, phát triển của sự sống trên Trái Đất qua các đại địa chất.
+•	Kỹ năng đạt được:
+o	Giải thích được sự hình thành đặc điểm thích nghi của sinh vật (như màu sắc ngụy trang của sâu bọ, cổ dài của hươu cao cổ) theo quan điểm chọn lọc tự nhiên.
+o	Phân biệt được vai trò của các nhân tố tiến hóa cơ bản.
+•	Bài tập tự luyện: Vận dụng học thuyết chọn lọc tự nhiên của Darwin, hãy giải thích vì sao vi khuẩn ngày càng xuất hiện nhiều chủng kháng thuốc kháng sinh?
+

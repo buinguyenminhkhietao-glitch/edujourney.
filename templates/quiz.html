@@ -1,0 +1,101 @@
+{% extends "base.html" %}
+
+{% block title %}Quiz - EduJourney{% endblock %}
+
+{% block extra_css %}
+<style>
+    .quiz-container {
+        background-color: var(--card-bg);
+        padding: 40px;
+        border-radius: 16px;
+        max-width: 600px;
+        margin: 0 auto;
+        box-shadow: 0 8px 25px rgba(0,0,0,0.08);
+    }
+    .quiz-container h2 {
+        text-align: center;
+        color: var(--primary-color);
+        margin-top: 0;
+    }
+    .question {
+        font-size: 20px;
+        font-weight: 700;
+        color: #2C3E50;
+        margin-bottom: 25px;
+        text-align: center;
+    }
+    .opt {
+        display: block;
+        background-color: #F0F4F8;
+        margin: 15px 0;
+        padding: 15px 20px;
+        border-radius: 10px;
+        cursor: pointer;
+        border: 2px solid transparent;
+        font-weight: 600;
+        transition: all 0.2s ease;
+    }
+    .opt:hover {
+        background-color: #E2E8F0;
+    }
+    .opt input {
+        margin-right: 15px;
+        transform: scale(1.2);
+    }
+    .submit-btn {
+        width: 100%;
+        padding: 15px;
+        background-color: #2ECC71;
+        color: white;
+        border: none;
+        border-radius: 10px;
+        font-size: 18px;
+        font-weight: 700;
+        cursor: pointer;
+        margin-top: 20px;
+        font-family: inherit;
+        transition: background 0.3s ease;
+    }
+    .submit-btn:hover {
+        background-color: #27AE60;
+    }
+    #res {
+        margin-top: 20px;
+        font-weight: 700;
+        text-align: center;
+        font-size: 18px;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+    <div class="quiz-container">
+        <h2>📝 Trắc nghiệm nhanh</h2>
+        <div class="question">Số nào sau đây là số nguyên tố?</div>
+        
+        <label class="opt"><input type="radio" name="ans" value="A"> A. 4</label>
+        <label class="opt"><input type="radio" name="ans" value="B"> B. 6</label>
+        <label class="opt"><input type="radio" name="ans" value="C"> C. 7</label>
+        <label class="opt"><input type="radio" name="ans" value="D"> D. 9</label>
+        
+        <button class="submit-btn" onclick="check()">Nộp bài</button>
+        <div id="res"></div>
+    </div>
+    
+    <script>
+        function check() {
+            const opts = document.getElementsByName('ans');
+            let sel = null;
+            for (let o of opts) { if (o.checked) sel = o.value; }
+            const res = document.getElementById('res');
+            
+            if (!sel) {
+                res.innerHTML = "<span style='color:#E67E22;'>⚠️ Vui lòng chọn một đáp án!</span>";
+            } else if (sel === 'C') {
+                res.innerHTML = "<span style='color:#27AE60;'>✅ Chính xác! Đáp án là 7.</span>";
+            } else {
+                res.innerHTML = "<span style='color:#E74C3C;'>❌ Sai rồi. Đáp án đúng là C. 7.</span>";
+            }
+        }
+    </script>
+{% endblock %}

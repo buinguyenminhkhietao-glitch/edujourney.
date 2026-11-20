@@ -1,0 +1,119 @@
+﻿Lớp 6
+Chương 1: Bản đồ - Phương tiện thể hiện bề mặt Trái Đất (Bài 1 - Bài 5)
+•	Ý chính cốt lõi: Trang bị kiến thức về hệ thống kinh tuyến, vĩ tuyến, kinh tuyến gốc ($0^\circ$), vĩ tuyến gốc (Xích đạo $0^\circ$) và cách xác định tọa độ địa lý của một điểm trên quả Địa Cầu. Nghiên cứu các phép chiếu đồ bản đồ, phương hướng trên bản đồ, tỉ lệ bản đồ, hệ thống kí hiệu và bảng chú giải bản đồ.
+•	Kỹ năng đạt được:
+o	Đọc và ghi chính xác tọa độ địa lý của một địa điểm; sử dụng tỉ lệ bản đồ để tính khoảng cách thực tế trên mặt đất.
+o	Sử dụng bảng chú giải để đọc các đối tượng tự nhiên và kinh tế - xã hội trên bản đồ.
+•	Bài tập tự luyện: Trên một bản đồ có tỉ lệ $1 : 2.000.000$, khoảng cách đo được giữa hai thành phố A và B là $4,5\text{ cm}$. Tính khoảng cách thực tế ngoài thực địa giữa hai thành phố đó ra đơn vị $\text{km}$.
+Chương 2: Trái Đất - Hành tinh của Hệ Mặt Trời (Bài 6 - Bài 9)
+•	Ý chính cốt lõi: Khám phá vị trí của Trái Đất trong Hệ Mặt Trời (thứ 3 tính từ Mặt Trời), hình dạng khối cầu và kích thước khổng lồ của Trái Đất. Phân tích hai chuyển động chính: chuyển động tự quay quanh trục (gây ra hệ quả ngày đêm luân phiên, giờ trên Trái Đất với 24 múi giờ, sự lệch hướng chuyển động) và chuyển động quay quanh Mặt Trời (sinh ra hiện tượng mùa và ngày đêm dài ngắn theo mùa).
+•	Kỹ năng đạt được:
+o	Tính được giờ địa phương của các thành phố thuộc các múi giờ khác nhau trên thế giới (Việt Nam ở múi giờ số 7).
+o	Xác định được phương hướng ngoài thực địa bằng la bàn hoặc dựa vào hướng Mặt Trời mọc/lặn.
+•	Bài tập tự luyện: Khi ở Hà Nội (múi giờ số 7) đang là $10\text{ giờ}$ sáng ngày 15/11, thì lúc đó ở Luân Đôn (múi giờ số 0) và Tokyo (múi giờ số 9) đang là mấy giờ?
+Chương 3: Cấu tạo của Trái Đất. Vỏ Trái Đất (Bài 10 - Bài 14)
+•	Ý chính cốt lõi: Tìm hiểu cấu tạo bên trong Trái Đất gồm ba lớp (vỏ Trái Đất, man-ti, nhân Trái Đất) và thuyết kiến tạo mảng giải thích sự dịch chuyển các mảng kiến tạo. Phân biệt tác động đối nghịch của quá trình nội sinh (tạo núi, núi lửa, động đất) và quá trình ngoại sinh (phong hóa, bóc mòn, bồi tụ) hình thành bốn dạng địa hình chính: núi, đồi, cao nguyên, đồng bằng.
+•	Kỹ năng đạt được:
+o	Đọc được lược đồ địa hình tỉ lệ lớn và phân tích lát cắt địa hình đơn giản.
+o	Đề xuất được biện pháp ứng phó an toàn khi xảy ra động đất hoặc núi lửa phun trào.
+•	Bài tập tự luyện: Phân biệt sự khác nhau về độ cao và đặc điểm bề mặt giữa cao nguyên và đồng bằng.
+Chương 4: Khí hậu và biến đổi khí hậu (Bài 15 - Bài 18)
+•	Ý chính cốt lõi: Nghiên cứu thành phần không khí, cấu trúc tầng của lớp vỏ khí (tầng đối lưu, tầng bình lưu, các tầng cao), sự phân bố các đai khí áp và các loại gió hành tinh (Tín phong, Tây ôn đới, Đông cực). Phân biệt thời tiết và khí hậu, sự phân hóa nhiệt độ, lượng mưa trên Trái Đất và biểu hiện, nguyên nhân của biến đổi khí hậu toàn cầu.
+•	Kỹ năng đạt được:
+o	Đọc và phân tích được biểu đồ nhiệt độ, lượng mưa của một địa điểm để xác định đặc điểm khí hậu.
+o	Nêu được các hành động cụ thể góp phần giảm nhẹ biến đổi khí hậu.
+•	Bài tập tự luyện: Phân biệt khái niệm "thời tiết" và "khí hậu". Lấy một ví dụ minh họa cho mỗi khái niệm.
+Chương 5: Nước trên Trái Đất (Bài 19 - Bài 21)
+•	Ý chính cốt lõi: Khám phá khái niệm thủy quyển và vòng tuần hoàn lớn của nước trong tự nhiên. Tìm hiểu cấu tạo hệ thống sông (sông chính, phụ lưu, chi lưu), lưu vực sông, chế độ nước sông, nguồn gốc hình thành hồ, vai trò của nước ngầm, băng hà và các vận động của nước biển, đại dương (sóng, thủy triều, dòng biển).
+•	Kỹ năng đạt được:
+o	Mô tả được các giai đoạn của vòng tuần hoàn nước lớn từ đại dương vào lục địa và ngược lại.
+o	Giải thích được tác động của dòng biển nóng và dòng biển lạnh đối với khí hậu vùng ven bờ.
+•	Bài tập tự luyện: Vì sao các vùng ven biển chịu ảnh hưởng của dòng biển nóng thường có khí hậu ấm áp và mưa nhiều hơn các vùng chịu ảnh hưởng của dòng biển lạnh?
+Chương 6: Đất và sinh vật trên Trái Đất (Bài 22 - Bài 26)
+•	Ý chính cốt lõi: Nghiên cứu lớp đất (thổ nhưỡng) trên Trái Đất, các thành phần chính của đất (khoáng, hữu cơ, nước, không khí) và các nhân tố hình thành đất (đá mẹ, khí hậu, sinh vật, địa hình, thời gian). Khám phá sự đa dạng sinh vật, đặc điểm rừng nhiệt đới và sự phân bố năm đới thiên nhiên tương ứng với các đới khí hậu trên Trái Đất.
+•	Kỹ năng đạt được:
+o	Xác định được vị trí các đới thiên nhiên (đới nóng, hai đới ôn hòa, hai đới lạnh) trên bản đồ thế giới.
+o	Giải thích được nguyên nhân hình thành tính đa dạng sinh học cao của rừng nhiệt đới.
+•	Bài tập tự luyện: Kể tên 5 nhân tố chủ yếu tham gia vào quá trình hình thành đất trên Trái Đất.
+Chương 7: Con người và thiên nhiên (Bài 27 - Bài 30)
+•	Ý chính cốt lõi: Tìm hiểu quy mô dân số thế giới và sự phân bố dân cư không đồng đều giữa các châu lục, khu vực. Phân tích mối quan hệ tác động qua lại giữa con người với thiên nhiên (tích cực và tiêu cực), từ đó khẳng định tầm quan trọng của việc khai thác thông minh tài nguyên và phát triển bền vững.
+•	Kỹ năng đạt được:
+o	Giải thích được vì sao dân cư thế giới tập trung đông đúc ở các đồng bằng châu thổ và ven biển.
+o	Đề xuất được giải pháp bảo vệ môi trường tự nhiên tại địa phương em sinh sống.
+•	Bài tập tự luyện: Nêu 3 nguyên nhân dẫn đến tình trạng phân bố dân cư không đồng đều trên thế giới.
+Lớp 7
+Chương 1: Châu Âu (Bài 1 - Bài 4)
+•	Ý chính cốt lõi: Nghiên cứu vị trí địa lý, địa hình (đồng bằng chiếm 2/3 diện tích, núi già, núi trẻ), khí hậu ôn đới và sông ngòi châu Âu. Tìm hiểu đặc điểm dân cư già hóa, mức độ đô thị hóa cao, phương thức khai thác tự nhiên bền vững (kinh tế xanh) và vai trò của Liên minh Châu Âu (EU) trong nền kinh tế toàn cầu.
+•	Kỹ năng đạt được:
+o	Phân tích được tháp tuổi dân số châu Âu và giải thích hệ quả của tình trạng già hóa dân số.
+o	Trình bày được biểu hiện chứng minh EU là một trong bốn trung tâm kinh tế lớn của thế giới.
+•	Bài tập tự luyện: Nêu các biện pháp chủ yếu mà các quốc gia châu Âu đang thực hiện để bảo vệ môi trường không khí và nguồn nước.
+Chương 2: Châu Á (Bài 5 - Bài 8)
+•	Ý chính cốt lõi: Khám phá châu lục rộng lớn và đông dân nhất thế giới với địa hình núi, cao nguyên đồ sộ xen kẽ đồng bằng châu thổ rộng lớn, khí hậu phân hóa đa dạng (gió mùa và lục địa). Nghiên cứu đặc điểm dân cư, sự ra đời của các tôn giáo lớn (Phật giáo, Ấn Độ giáo, Hồi giáo, Ki-tô giáo) và sự trỗi dậy mạnh mẽ của các nền kinh tế lớn, kinh tế mới nổi (Trung Quốc, Nhật Bản, Hàn Quốc, Ấn Độ).
+•	Kỹ năng đạt được:
+o	Đọc và khai thác bản đồ tự nhiên, bản đồ chính trị các khu vực châu Á (Đông Á, Đông Nam Á, Nam Á, Tây Nam Á, Trung Á).
+o	Phân tích được cơ cấu GDP và tốc độ tăng trưởng kinh tế của các cường quốc châu Á.
+•	Bài tập tự luyện: Giải thích vì sao khí hậu châu Á lại phân hóa thành nhiều đới và nhiều kiểu khí hậu khác nhau từ Bắc xuống Nam và từ duyên hải vào nội địa?
+Chương 3: Châu Phi (Bài 9 - Bài 12)
+•	Ý chính cốt lõi: Tìm hiểu đặc điểm tự nhiên nổi bật của châu Phi: châu lục nóng và khô bậc nhất thế giới với các hoang mạc rộng lớn (Xa-ha-ra), dạng địa hình khối sơn nguyên cao. Phân tích các vấn đề xã hội bức xúc (bùng nổ dân số, xung đột sắc tộc, dịch bệnh), phương thức khai thác thiên nhiên (vấn đề hoang mạc hóa) và khái quát về Cộng hòa Nam Phi.
+•	Kỹ năng đạt được:
+o	Giải thích được nguyên nhân hình thành các hoang mạc rộng lớn ở châu Phi.
+o	Đề xuất giải pháp chống hoang mạc hóa và bảo vệ động vật hoang dã ở châu Phi.
+•	Bài tập tự luyện: Nêu nguyên nhân khiến tỉ lệ gia tăng dân số tự nhiên của châu Phi luôn ở mức cao nhất thế giới và hậu quả của nó.
+Chương 4: Châu Mỹ (Bài 13 - Bài 17)
+•	Ý chính cốt lõi: Khám phá vị trí trải dài qua nhiều vĩ độ từ Bắc Cực đến cận Nam Cực của châu Mỹ. So sánh đặc điểm tự nhiên, dân cư, kinh tế và phương thức khai thác tự nhiên bền vững giữa Bắc Mỹ (Hoa Kỳ, Ca-na-đa phát triển hàng đầu) với Trung và Nam Mỹ (vấn đề khai thác, sử dụng và bảo vệ rừng nhiệt đới A-ma-dôn - "lá phổi xanh" của Trái Đất).
+•	Kỹ năng đạt được:
+o	Phân tích được cấu trúc địa hình chia làm ba khu vực rõ rệt theo chiều kinh tuyến ở Bắc Mỹ và Nam Mỹ.
+o	Đánh giá được tầm quan trọng toàn cầu của việc bảo vệ rừng A-ma-dôn trước nạn phá rừng.
+•	Bài tập tự luyện: So sánh đặc điểm địa hình của khu vực Bắc Mỹ và khu vực Nam Mỹ.
+Chương 5: Châu Đại Dương và châu Nam Cực (Bài 18 - Bài 19)
+•	Ý chính cốt lõi: Nghiên cứu thiên nhiên độc đáo của lục địa Ô-xtrây-li-a (nhiều loài thú có túi, bạch đàn) và các quần đảo châu Đại Dương, cùng nền kinh tế phát triển cao của Ô-xtrây-li-a. Khám phá châu Nam Cực - châu lục lạnh nhất, nhiều gió bão nhất thế giới, nơi dự trữ nước ngọt khổng lồ và hiệp ước quốc tế bảo vệ Nam Cực vì mục đích hòa bình, nghiên cứu khoa học.
+•	Kỹ năng đạt được:
+o	Giải thích được sự độc đáo của giới sinh vật bản địa ở Ô-xtrây-li-a.
+o	Phân tích được tác động của biến đổi khí hậu (tan băng ở Nam Cực) đối với mực nước biển toàn cầu.
+•	Bài tập tự luyện: Vì sao châu Nam Cực được mệnh danh là "cực lạnh của Trái Đất" và không có dân cư sinh sống thường xuyên?
+Lớp 8
+Chương 1: Vị trí địa lý và phạm vi lãnh thổ, địa hình và khoáng sản Việt Nam (Bài 1 - Bài 3)
+•	Ý chính cốt lõi: Khám phá vị trí địa lý Việt Nam nằm ở rìa phía đông bán đảo Đông Dương, trung tâm khu vực Đông Nam Á, cầu nối giữa đất liền và biển. Phân tích đặc điểm địa hình nước ta (đồi núi chiếm 3/4 diện tích nhưng chủ yếu là đồi núi thấp, hướng nghiêng Tây Bắc - Đông Nam, phân hóa thành 4 khu vực đồi núi và 2 đồng bằng châu thổ lớn) cùng nguồn tài nguyên khoáng sản phong phú, đa dạng.
+•	Kỹ năng đạt được:
+o	Xác định được tọa độ địa lý các điểm cực trên đất liền và phạm vi lãnh thổ (vùng đất, vùng biển, vùng trời) của Việt Nam.
+o	Phân tích được ảnh hưởng của địa hình đồi núi và đồng bằng đối với phát triển kinh tế - xã hội.
+•	Bài tập tự luyện: Trình bày những thuận lợi và khó khăn của vị trí địa lý Việt Nam đối với phát triển kinh tế - xã hội.
+Chương 2: Khí hậu và thủy văn Việt Nam (Bài 4 - Bài 8)
+•	Ý chính cốt lõi: Nghiên cứu đặc điểm khí hậu nhiệt đới ẩm gió mùa (gió mùa mùa đông lạnh khô, gió mùa mùa hạ nóng ẩm mưa nhiều) và sự phân hóa đa dạng theo Bắc - Nam, Đông - Tây và độ cao. Khám phá đặc điểm mạng lưới sông ngòi dày đặc, chế độ nước theo mùa, vai trò của tài nguyên khí hậu, nguồn nước và tác động của biến đổi khí hậu đối với nước ta.
+•	Kỹ năng đạt được:
+o	Đọc và phân tích được biểu đồ khí hậu của ba trạm đại diện cho ba miền (Hà Nội, Huế, TP. Hồ Chí Minh).
+o	Đề xuất giải pháp phòng chống thiên tai (bão, lũ lụt, hạn hán) và ứng phó với biến đổi khí hậu.
+•	Bài tập tự luyện: Giải thích vì sao chế độ nước của sông ngòi Việt Nam lại có sự phân hóa sâu sắc thành hai mùa (mùa lũ và mùa cạn)?
+Chương 3: Thổ nhưỡng và sinh vật Việt Nam (Bài 9 - Bài 10)
+•	Ý chính cốt lõi: Tìm hiểu tính chất nhiệt đới ẩm gió mùa của lớp phủ thổ nhưỡng Việt Nam với ba nhóm đất chính: đất feralit ở vùng đồi núi, đất phù sa ở vùng đồng bằng và đất mặn, đất phèn ở ven biển. Khám phá tính đa dạng sinh học cao của sinh vật Việt Nam (đa dạng về thành phần loài, gen di truyền và hệ sinh thái) cùng vấn đề bảo vệ tài nguyên rừng.
+•	Kỹ năng đạt được:
+o	Phân biệt được đặc tính và giá trị sử dụng nông - lâm nghiệp của đất feralit và đất phù sa.
+o	Nêu được các biện pháp cấp bách bảo vệ đa dạng sinh học và chống thoái hóa đất ở Việt Nam.
+•	Bài tập tự luyện: So sánh đặc điểm hình thành và giá trị sử dụng kinh tế của nhóm đất feralit và nhóm đất phù sa ở nước ta.
+Chương 4: Biển đảo Việt Nam (Bài 11 - Bài 12)
+•	Ý chính cốt lõi: Khám phá phạm vi Biển Đông, vùng biển của Việt Nam theo Luật Biển Việt Nam (nội thủy, lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế và thềm lục địa) và đặc điểm tự nhiên vùng biển đảo nước ta. Đánh giá tiềm năng tài nguyên biển đảo (sinh vật, khoáng sản dầu khí, giao thông vận tải, du lịch) và vấn đề bảo vệ môi trường, chủ quyền biển đảo.
+•	Kỹ năng đạt được:
+o	Xác định được vị trí hai quần đảo Hoàng Sa (Đà Nẵng) và Trường Sa (Khánh Hòa) trên bản đồ Việt Nam.
+o	Nâng cao ý thức trách nhiệm của công dân trong việc bảo vệ môi trường biển và chủ quyền thiêng liêng của Tổ quốc.
+•	Bài tập tự luyện: Kể tên 5 bộ phận hợp thành vùng biển Việt Nam theo Luật Biển Việt Nam năm 2012.
+Lớp 9
+Chương 1: Địa lý dân cư Việt Nam (Bài 1 - Bài 4)
+•	Ý chính cốt lõi: Nghiên cứu đại gia đình 54 dân tộc Việt Nam (dân tộc Kinh chiếm $85,3\%$), quy mô dân số đông, cơ cấu dân số vàng nhưng đang có xu hướng già hóa và tỉ lệ gia tăng tự nhiên giảm dần. Phân tích sự phân bố dân cư không đều giữa đồng bằng với miền núi, đặc điểm nguồn lao động dồi dào, vấn đề việc làm và quá trình đô thị hóa.
+•	Kỹ năng đạt được:
+o	Tính toán được tỉ lệ gia tăng dân số tự nhiên ($\%$) và mật độ dân số ($\text{người/km}^2$).
+o	Phân tích được sức ép của dân số đông đối với phát triển kinh tế, giải quyết việc làm và bảo vệ môi trường.
+•	Bài tập tự luyện: Năm 2021, dân số Việt Nam là $98,5\text{ triệu người}$, diện tích đất tự nhiên khoảng $331.344\text{ km}^2$. Tính mật độ dân số trung bình của nước ta năm 2021.
+Chương 2: Địa lý các ngành kinh tế (Bài 5 - Bài 11)
+•	Ý chính cốt lõi: Khám phá sự chuyển dịch cơ cấu kinh tế Việt Nam theo hướng công nghiệp hóa, hiện đại hóa (giảm tỉ trọng nông-lâm-thủy sản, tăng tỉ trọng công nghiệp-xây dựng và dịch vụ). Phân tích thế mạnh, tình hình phát triển và phân bố của ba khu vực kinh tế: Nông - Lâm - Thủy sản (nền nông nghiệp xanh, hàng hóa xuất khẩu), Công nghiệp (các ngành trọng điểm: khai khoáng, điện lực, chế biến thực phẩm, điện tử) và Dịch vụ (GTVT, bưu chính viễn thông, thương mại, du lịch).
+•	Kỹ năng đạt được:
+o	Vẽ và nhận xét thành thạo các dạng biểu đồ cơ cấu (biểu đồ tròn, biểu đồ miền) và biểu đồ kết hợp (cột và đường).
+o	Giải thích được sự phân bố của các vùng chuyên canh nông nghiệp và các trung tâm công nghiệp lớn ở nước ta.
+•	Bài tập tự luyện: Giải thích vì sao ngành công nghiệp sản xuất sản phẩm điện tử, máy vi tính lại phát triển rất nhanh ở nước ta trong những năm gần đây?
+Chương 3: Địa lý các vùng kinh tế - xã hội (Bài 12 - Bài 21)
+•	Ý chính cốt lõi: Nghiên cứu toàn diện vị trí địa lý, điều kiện tự nhiên, dân cư - xã hội và tình hình phát triển kinh tế của 6 vùng kinh tế - xã hội nước ta: Trung du và miền núi Bắc Bộ (thế mạnh thủy điện, khoáng sản, cây công nghiệp cận nhiệt), Đồng bằng sông Hồng (trình độ thâm canh cao, công nghiệp - dịch vụ phát triển), Bắc Trung Bộ (phòng chống thiên tai, kinh tế biển), Duyên hải Nam Trung Bộ và Tây Nguyên (cây công nghiệp lâu năm cà phê, cao su và kinh tế biển), Đông Nam Bộ (vùng kinh tế phát triển năng động nhất cả nước) và Đồng bằng sông Cửu Long (vựa lúa, vựa trái cây, thủy sản lớn nhất cả nước ứng phó với biến đổi khí hậu), cùng chiến lược phát triển tổng hợp kinh tế biển đảo.
+•	Kỹ năng đạt được:
+o	So sánh được thế mạnh đặc trưng và hạn chế chủ yếu của từng vùng kinh tế - xã hội trên bản đồ Việt Nam.
+o	Đề xuất giải pháp ứng phó với hạn hán, xâm nhập mặn ở Đồng bằng sông Cửu Long và tăng cường kết nối liên vùng.
+•	Bài tập tự luyện: Phân tích những thế mạnh nổi bật giúp vùng Đông Nam Bộ trở thành vùng kinh tế phát triển năng động nhất cả nước.
+

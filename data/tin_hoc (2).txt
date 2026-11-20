@@ -1,0 +1,2 @@
+﻿•	Trọng tâm: Thuật toán cơ bản và nâng cao (sắp xếp, tìm kiếm nhị phân, số nguyên tố, ước chung lớn nhất, quy hoạch động cơ bản, xử lý mảng 1 chiều, 2 chiều và xâu ký tự trong Python/C++); Tối ưu hóa độ phức tạp thời gian O(N)O(N)O(N), O(Nlog⁡N)O(N \log N)O(NlogN).
+•	Kỹ năng: Viết mã nguồn sạch, gỡ lỗi (debugging) hiệu quả, tư duy thuật toán tối ưu.

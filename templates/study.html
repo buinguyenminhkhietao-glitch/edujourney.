@@ -1,0 +1,69 @@
+{% extends "base.html" %}
+
+{% block title %}{{ subject_name }} - EduJourney{% endblock %}
+
+{% block extra_css %}
+<style>
+    .page-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 30px;
+    }
+    .page-header h2 {
+        color: var(--primary-color);
+        font-size: 26px;
+        margin: 0;
+    }
+    .back-btn {
+        text-decoration: none;
+        color: #fff;
+        background-color: var(--primary-color);
+        padding: 8px 16px;
+        border-radius: 8px;
+        font-weight: 600;
+        transition: background 0.3s ease;
+    }
+    .back-btn:hover {
+        background-color: #357ABD;
+    }
+    .lesson-card {
+        background-color: var(--card-bg);
+        padding: 25px;
+        border-radius: 12px;
+        margin-bottom: 20px;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.04);
+        border-left: 6px solid var(--primary-color);
+    }
+    .lesson-card h3 {
+        margin-top: 0;
+        color: #2C3E50;
+        font-size: 20px;
+    }
+    .lesson-card p {
+        color: #555;
+        line-height: 1.7;
+        margin-bottom: 0;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+    <div class="page-header">
+        <h2>Môn học: {{ subject_name }}</h2>
+        <a href="/" class="back-btn">&larr; Trang chủ</a>
+    </div>
+
+    {% if lessons %}
+        {% for lesson in lessons %}
+            <div class="lesson-card">
+                <h3>{{ lesson.title }}</h3>
+                <p>{{ lesson.content | safe }}</p>
+            </div>
+        {% endfor %}
+    {% else %}
+        <div style="text-align: center; padding: 40px; background: #fff; border-radius: 12px;">
+            <p style="color: #888; font-size: 18px;">Chưa có bài học nào cho môn này. Vui lòng quay lại sau nhé!</p>
+        </div>
+    {% endif %}
+{% endblock %}

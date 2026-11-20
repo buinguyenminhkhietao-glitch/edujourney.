@@ -1,0 +1,238 @@
+﻿TOÁN LỚP 6
+Chương 1: Tập hợp các số tự nhiên (Bài 1 - Bài 7)
+•	Ý chính cốt lõi: Trang bị khái niệm cơ bản về tập hợp, phần tử thuộc ($\in$) và không thuộc ($\notin$) tập hợp, cách ghi số tự nhiên trong hệ thập phân và hệ La Mã. Học sinh nắm vững các phép tính cộng, trừ, nhân, chia, nâng lên lũy thừa với số mũ tự nhiên và quy tắc thứ tự thực hiện phép tính.
+•	Kỹ năng đạt được:
+o	Viết được tập hợp bằng cách liệt kê phần tử hoặc chỉ ra tính chất đặc trưng; tính nhẩm, tính nhanh hợp lý.
+o	Vận dụng thành thạo công thức nhân, chia hai lũy thừa cùng cơ số ($a^m \cdot a^n = a^{m+n}$; $a^m : a^n = a^{m-n}$).
+•	Bài tập tự luyện: Tính giá trị của biểu thức: $A = 2^3 \cdot 15 - [115 - (12 - 5)^2]$.
+Chương 2: Tính chia hết trong tập hợp các số tự nhiên (Bài 8 - Bài 12)
+•	Ý chính cốt lõi: Nghiên cứu quan hệ chia hết, tính chất chia hết của một tổng và các dấu hiệu chia hết cho $2, 3, 5, 9$. Phân biệt số nguyên tố, hợp số, phương pháp phân tích một số ra thừa số nguyên tố để tìm Ước chung lớn nhất (ƯCLN) và Bội chung nhỏ nhất (BCNN).
+•	Kỹ năng đạt được:
+o	Phân tích chính xác một hợp số ra thừa số nguyên tố; tìm được ƯCLN và BCNN của hai hay nhiều số.
+o	Giải quyết các bài toán thực tế về chia nhóm, xếp hàng, tìm chu kỳ lặp lại của sự kiện.
+•	Bài tập tự luyện: Học sinh khối 6 của một trường có khoảng từ 200 đến 250 em. Khi xếp hàng 10, hàng 12, hàng 15 đều vừa đủ. Tính số học sinh khối 6 của trường đó.
+Chương 3: Số nguyên (Bài 13 - Bài 17)
+•	Ý chính cốt lõi: Mở rộng tập hợp số tự nhiên sang tập hợp số nguyên $\mathbb{Z}$ bao gồm số nguyên âm, số $0$ và số nguyên dương. Nắm vững trục số, số đối, thứ tự trong $\mathbb{Z}$ và các quy tắc cộng, trừ, nhân, chia số nguyên, quy tắc dấu ngoặc.
+•	Kỹ năng đạt được:
+o	Thực hiện thành thạo bốn phép tính trên tập hợp số nguyên $\mathbb{Z}$ và áp dụng quy tắc bỏ dấu ngoặc để tính nhanh.
+o	Vận dụng số nguyên âm để biểu diễn nhiệt độ dưới $0^\circ\text{C}$, độ sâu dưới mực nước biển và nợ tài chính.
+•	Bài tập tự luyện: Tìm số nguyên $x$, biết: $3x - (-15) = -12$.
+Chương 4: Một số hình phẳng trong thực tiễn (Bài 18 - Bài 20)
+•	Ý chính cốt lõi: Nhận diện đặc điểm về cạnh, góc, đường chéo của các hình phẳng cơ bản: tam giác đều, hình vuông, hình lục giác đều, hình chữ nhật, hình thoi, hình bình hành và hình thang cân. Thiết lập công thức tính chu vi và diện tích của các tứ giác đã học.
+•	Kỹ năng đạt được:
+o	Vẽ được các hình phẳng cơ bản bằng thước và compa; tính chính xác chu vi và diện tích các hình ghép phức tạp.
+o	Ứng dụng tính toán diện tích sàn nhà, chi phí lát gạch, làm hàng rào trong thực tiễn.
+•	Bài tập tự luyện: Một mảnh vườn hình thang cân có đáy lớn $20\text{ m}$, đáy nhỏ $12\text{ m}$ và chiều cao $8\text{ m}$. Tính diện tích mảnh vườn đó.
+Chương 5: Tính đối xứng của hình phẳng trong tự nhiên (Bài 21 - Bài 22)
+•	Ý chính cốt lõi: Khám phá tính thẩm mỹ và cân đối trong toán học và tự nhiên thông qua khái niệm hình có trục đối xứng và hình có tâm đối xứng. Nhận biết các hình phẳng quen thuộc có trục đối xứng, tâm đối xứng trong kiến trúc, hội họa và sinh học.
+•	Kỹ năng đạt được:
+o	Xác định được trục đối xứng và tâm đối xứng của một hình phẳng cho trước.
+o	Vận dụng tính đối xứng để cắt gấp hình, thiết kế hoa văn trang trí cân đối.
+•	Bài tập tự luyện: Trong các hình sau: hình chữ nhật, hình bình hành, hình thoi, hình thang cân, hình nào vừa có trục đối xứng vừa có tâm đối xứng?
+Chương 6: Phân số (Bài 23 - Bài 27)
+•	Ý chính cốt lõi: Mở rộng khái niệm phân số với tử và mẫu là các số nguyên (mẫu khác $0$), phân số bằng nhau và tính chất cơ bản của phân số. Nắm vững quy đồng mẫu số, so sánh phân số, hỗn số dương, các phép tính phân số và hai bài toán cơ bản về phân số.
+•	Kỹ năng đạt được:
+o	Rút gọn phân số tối giản, quy đồng và thực hiện thành thạo các phép tính cộng, trừ, nhân, chia phân số.
+o	Giải thành thạo bài toán tìm giá trị phân số của một số cho trước và tìm một số biết giá trị phân số của nó.
+•	Bài tập tự luyện: Một lớp học có 40 học sinh, trong đó số học sinh giỏi chiếm $\frac{1}{5}$ số học sinh cả lớp, số học sinh khá bằng $\frac{3}{4}$ số học sinh còn lại. Tính số học sinh khá của lớp.
+Chương 7: Số thập phân (Bài 28 - Bài 31)
+•	Ý chính cốt lõi: Tìm hiểu số thập phân âm và dương, cách viết phân số thập phân dưới dạng số thập phân và ngược lại. Nắm vững quy tắc tính toán với số thập phân, kỹ thuật làm tròn số, ước lượng kết quả và các bài toán về tỉ số, tỉ số phần trăm.
+•	Kỹ năng đạt được:
+o	Thực hiện chính xác phép tính với số thập phân và làm tròn số đến hàng phần mười, phần trăm theo yêu cầu.
+o	Giải quyết các bài toán thực tế về tính tiền lãi tiết kiệm, phần trăm giảm giá sản phẩm.
+•	Bài tập tự luyện: Một chiếc áo có giá niêm yết là $350.000$ đồng. Nhân dịp lễ, cửa hàng giảm giá $20\%$. Hỏi khách hàng mua chiếc áo đó phải trả bao nhiêu tiền?
+Chương 8: Những hình học cơ bản (Bài 32 - Bài 37)
+•	Ý chính cốt lõi: Xây dựng nền móng hình học phẳng thông qua các đối tượng cơ bản: điểm, đường thẳng, tia, đoạn thẳng, độ dài đoạn thẳng và trung điểm của đoạn thẳng. Nghiên cứu khái niệm góc, cách đo góc bằng thước đo độ và phân loại góc nhọn, góc vuông, góc tù, góc bẹt.
+•	Kỹ năng đạt được:
+o	Biết cách vẽ, đặt tên điểm, đường thẳng, tia; tính độ dài đoạn thẳng thông qua tính chất trung điểm.
+o	Sử dụng thước đo góc để đo và vẽ góc có số đo cho trước chính xác.
+•	Bài tập tự luyện: Cho đoạn thẳng $AB = 10\text{ cm}$. Điểm $M$ nằm giữa $A$ và $B$ sao cho $AM = 4\text{ cm}$. Gọi $I$ là trung điểm của đoạn thẳng $MB$. Tính độ dài đoạn thẳng $AI$.
+Chương 9: Dữ liệu và xác suất thực nghiệm (Bài 38 - Bài 43)
+•	Ý chính cốt lõi: Làm quen với thống kê mô tả qua việc thu thập, phân loại dữ liệu và biểu diễn dưới dạng bảng thống kê, biểu đồ tranh, biểu đồ cột và biểu đồ cột kép. Bước đầu tiếp cận xác suất thực nghiệm thông qua các trò chơi gieo xúc xắc, tung đồng xu.
+•	Kỹ năng đạt được:
+o	Đọc, phân tích thông tin và vẽ được biểu đồ cột, biểu đồ cột kép từ bảng số liệu cho trước.
+o	Tính được xác suất thực nghiệm của một sự kiện trong các thí nghiệm lặp lại nhiều lần.
+•	Bài tập tự luyện: Tung một đồng xu cân đối 50 lần, thấy có 28 lần xuất hiện mặt ngửa. Tính xác suất thực nghiệm của sự kiện xuất hiện mặt sấp.
+TOÁN LỚP 7
+Chương 1: Số hữu tỉ (Bài 1 - Bài 4)
+•	Ý chính cốt lõi: Giới thiệu tập hợp số hữu tỉ $\mathbb{Q}$ (các số viết được dưới dạng phân số $\frac{a}{b}$ với $a, b \in \mathbb{Z}, b \ne 0$), biểu diễn số hữu tỉ trên trục số và thứ tự trong $\mathbb{Q}$. Nắm vững quy tắc cộng, trừ, nhân, chia, lũy thừa số hữu tỉ và quy tắc chuyển vế.
+•	Kỹ năng đạt được:
+o	Chuyển đổi linh hoạt giữa phân số, hỗn số và số thập phân để tính toán hợp lý biểu thức hữu tỉ.
+o	Vận dụng thành thạo quy tắc chuyển vế và lũy thừa của số hữu tỉ để giải bài toán tìm $x$.
+•	Bài tập tự luyện: Tìm $x$, biết: $\frac{3}{4} + \frac{1}{4} : x = \frac{2}{5}$.
+Chương 2: Số thực (Bài 5 - Bài 7)
+•	Ý chính cốt lõi: Khám phá số thập phân vô hạn tuần hoàn, số vô tỉ và khái niệm căn bậc hai số học của một số không âm. Hợp nhất tập hợp số hữu tỉ $\mathbb{Q}$ và tập hợp số vô tỉ $\mathbb{I}$ thành tập hợp số thực $\mathbb{R}$, nắm vững trục số thực và giá trị tuyệt đối của số thực.
+•	Kỹ năng đạt được:
+o	Tính được căn bậc hai số học của các số chính phương và sử dụng máy tính cầm tay để tìm giá trị gần đúng.
+o	Biểu diễn và so sánh các số thực trên trục số.
+•	Bài tập tự luyện: Tính giá trị của biểu thức: $M = \sqrt{64} - 3\sqrt{0,25} + \sqrt{\frac{9}{16}}$.
+Chương 3: Góc và đường thẳng song song (Bài 8 - Bài 11)
+•	Ý chính cốt lõi: Nghiên cứu các cặp góc ở vị trí đặc biệt (hai góc kề bù, hai góc đối đỉnh) và tính chất tia phân giác của một góc. Nắm vững dấu hiệu nhận biết hai đường thẳng song song, tiên đề Euclid và cấu trúc một định lí hình học (giả thiết, kết luận, chứng minh).
+•	Kỹ năng đạt được:
+o	Vận dụng tính chất hai đường thẳng song song (so le trong, đồng vị bằng nhau) để tính số đo góc.
+o	Bước đầu biết cách viết giả thiết, kết luận và trình bày chứng minh một định lí hình học.
+•	Bài tập tự luyện: Cho hai đường thẳng song song $a$ và $b$. Một đường thẳng $c$ cắt $a$ tại $A$ và cắt $b$ tại $B$ tạo thành góc so le trong $\widehat{A_1} = 55^\circ$. Tính số đo góc $\widehat{B_1}$ đồng vị với góc $\widehat{A_1}$.
+Chương 4: Tam giác bằng nhau (Bài 12 - Bài 16)
+•	Ý chính cốt lõi: Nắm vững định lí tổng ba góc trong một tam giác bằng $180^\circ$ và tính chất góc ngoài tam giác. Nghiên cứu ba trường hợp bằng nhau của tam giác thường (c-c-c, c-g-c, g-c-g), các trường hợp bằng nhau của tam giác vuông, tính chất tam giác cân và đường trung trực của đoạn thẳng.
+•	Kỹ năng đạt được:
+o	Chứng minh được hai tam giác bằng nhau từ đó suy ra các cạnh tương ứng, góc tương ứng bằng nhau.
+o	Vận dụng tính chất tam giác cân và đường trung trực để giải quyết các bài toán hình học tổng hợp.
+•	Bài tập tự luyện: Cho tam giác $ABC$ cân tại $A$ có $\widehat{A} = 40^\circ$. Tính số đo góc $B$ và góc $C$.
+Chương 5: Thu thập và biểu diễn dữ liệu (Bài 17 - Bài 19)
+•	Ý chính cốt lõi: Phân loại dữ liệu định tính và định lượng, đánh giá tính đại diện của dữ liệu thống kê. Tìm hiểu cách đọc, phân tích và biểu diễn dữ liệu bằng biểu đồ hình quạt tròn (thể hiện cơ cấu tỉ lệ phần trăm) và biểu đồ đoạn thẳng (thể hiện xu hướng thay đổi theo thời gian).
+•	Kỹ năng đạt được:
+o	Tính toán và phân tích được số liệu từ biểu đồ hình quạt tròn và biểu đồ đoạn thẳng.
+o	Lựa chọn dạng biểu đồ thích hợp nhất để biểu diễn một tập dữ liệu thực tế.
+•	Bài tập tự luyện: Trên một biểu đồ hình quạt tròn thể hiện cơ cấu học lực của 200 học sinh, phần quạt biểu diễn học sinh giỏi chiếm $35\%$. Hỏi có bao nhiêu học sinh đạt loại giỏi?
+Chương 6: Tỉ lệ thức và đại lượng tỉ lệ (Bài 20 - Bài 23)
+•	Ý chính cốt lõi: Thiết lập khái niệm tỉ lệ thức $\frac{a}{b} = \frac{c}{d}$, tính chất cơ bản của tỉ lệ thức và tính chất của dãy tỉ số bằng nhau. Nghiên cứu đặc điểm và công thức liên hệ của hai đại lượng tỉ lệ thuận ($y = kx$) và hai đại lượng tỉ lệ nghịch ($y = \frac{a}{x}$).
+•	Kỹ năng đạt được:
+o	Áp dụng tính chất dãy tỉ số bằng nhau để tìm các số chưa biết khi biết tổng hoặc hiệu của chúng.
+o	Giải quyết thành thạo các bài toán thực tế về chia tỉ lệ, năng suất lao động, thời gian và vận tốc.
+•	Bài tập tự luyện: Tìm hai số $x$ và $y$, biết $\frac{x}{3} = \frac{y}{5}$ và $x + y = 32$.
+Chương 7: Biểu thức đại số và đa thức một biến (Bài 24 - Bài 28)
+•	Ý chính cốt lõi: Làm quen với biểu thức đại số, cách tính giá trị biểu thức đại số tại các giá trị cho trước của biến. Nghiên cứu đa thức một biến, bậc của đa thức, nghiệm của đa thức một biến và thực hiện thành thạo bốn phép tính cộng, trừ, nhân, chia đa thức một biến.
+•	Kỹ năng đạt được:
+o	Thu gọn và sắp xếp đa thức một biến theo lũy thừa giảm dần của biến; tìm được nghiệm của đa thức bậc nhất.
+o	Thực hiện chính xác phép nhân hai đa thức và phép chia đa thức một biến đã sắp xếp.
+•	Bài tập tự luyện: Cho đa thức $P(x) = 2x^3 - 5x + 3 - 2x^3 + 7x - 9$. Thu gọn đa thức $P(x)$ và tìm nghiệm của nó.
+Chương 8: Làm quen với biến cố và xác suất của biến cố (Bài 29 - Bài 30)
+•	Ý chính cốt lõi: Phân biệt ba loại biến cố trong các trò chơi, thí nghiệm: biến cố chắc chắn, biến cố không thể và biến cố ngẫu nhiên. Nắm vững cách tính xác suất của biến cố ngẫu nhiên trong trường hợp các kết quả có khả năng xảy ra bằng nhau (đồng khả năng).
+•	Kỹ năng đạt được:
+o	Xác định được tính chất của một biến cố và tính chính xác xác suất của biến cố trong các phép thử đơn giản.
+o	Biết được xác suất của biến cố không thể bằng $0$ và biến cố chắc chắn bằng $1$.
+•	Bài tập tự luyện: Gieo một con xúc xắc 6 mặt cân đối một lần. Tính xác suất của biến cố "Số chấm xuất hiện trên mặt con xúc xắc là số nguyên tố".
+Chương 9: Quan hệ giữa các yếu tố trong một tam giác (Bài 31 - Bài 35)
+•	Ý chính cốt lõi: Khám phá mối quan hệ giữa góc và cạnh đối diện trong một tam giác, quan hệ giữa đường vuông góc và đường xiên, bất đẳng thức tam giác ($|b - c| < a < b + c$). Nghiên cứu tính chất đồng quy của bốn đường đặc biệt trong tam giác: trung tuyến, phân giác, trung trực và đường cao.
+•	Kỹ năng đạt được:
+o	Kiểm tra được ba độ dài cho trước có tạo thành một tam giác hay không; xác định trọng tâm, trực tâm tam giác.
+o	Vận dụng tính chất trọng tâm (cách đỉnh $\frac{2}{3}$ độ dài trung tuyến) để tính độ dài đoạn thẳng.
+•	Bài tập tự luyện: Cho tam giác $ABC$ có trung tuyến $AM = 12\text{ cm}$ và trọng tâm $G$. Tính độ dài đoạn thẳng $AG$ và $GM$.
+Chương 10: Một số hình khối trong thực tiễn (Bài 36 - Bài 37)
+•	Ý chính cốt lõi: Chuyển sang hình học không gian trực quan qua hình hộp chữ nhật, hình lập phương, hình lăng trụ đứng tam giác và hình lăng trụ đứng tứ giác. Thiết lập công thức tính diện tích xung quanh ($S_{xq} = C_{\text{đáy}} \cdot h$) và thể tích ($V = S_{\text{đáy}} \cdot h$).
+•	Kỹ năng đạt được:
+o	Nhận diện đỉnh, cạnh, mặt bên, mặt đáy của các hình khối không gian; tính diện tích xung quanh và thể tích.
+o	Ứng dụng tính thể tích bể nước, thùng chứa hàng, căn phòng trong thực tế.
+•	Bài tập tự luyện: Một hình lăng trụ đứng tam giác có đáy là tam giác vuông với hai cạnh góc vuông bằng $3\text{ cm}$ và $4\text{ cm}$, chiều cao lăng trụ là $10\text{ cm}$. Tính thể tích của hình lăng trụ đó.
+TOÁN LỚP 8
+Chương 1: Đa thức (Bài 1 - Bài 5)
+•	Ý chính cốt lõi: Mở rộng kiến thức sang đơn thức nhiều biến, đơn thức đồng dạng và đa thức nhiều biến. Nắm vững các quy tắc cộng, trừ đa thức, nhân đơn thức với đa thức, nhân đa thức với đa thức và phép chia hết của đa thức cho đơn thức.
+•	Kỹ năng đạt được:
+o	Thu gọn đa thức nhiều biến, xác định bậc của đơn thức và đa thức chính xác.
+o	Thực hiện thành thạo các phép biến đổi nhân, chia đa thức nhiều biến.
+•	Bài tập tự luyện: Rút gọn biểu thức: $P = (2x - y)(2x + y) - 4x(x - y) + y^2$.
+Chương 2: Hằng đẳng thức đáng nhớ và ứng dụng (Bài 6 - Bài 9)
+•	Ý chính cốt lõi: Hệ thống hóa 7 hằng đẳng thức đáng nhớ bậc hai và bậc ba (bình phương của tổng/hiệu, hiệu hai bình phương, lập phương của tổng/hiệu, tổng/hiệu hai lập phương). Vận dụng hằng đẳng thức cùng phương pháp đặt nhân tử chung, nhóm hạng tử để phân tích đa thức thành nhân tử.
+•	Kỹ năng đạt được:
+o	Thuộc lòng và áp dụng linh hoạt 7 hằng đẳng thức theo cả hai chiều (khai triển và viết gọn).
+o	Phân tích thành thạo đa thức thành nhân tử để tính nhanh và giải bài toán tìm $x$.
+•	Bài tập tự luyện: Phân tích đa thức sau thành nhân tử: $x^2 - y^2 + 5x - 5y$.
+Chương 3: Tứ giác (Bài 10 - Bài 14)
+•	Ý chính cốt lõi: Nghiên cứu định lí tổng các góc của một tứ giác bằng $360^\circ$. Khám phá định nghĩa, tính chất (về cạnh, góc, đường chéo) và dấu hiệu nhận biết của các tứ giác đặc biệt: hình thang cân, hình bình hành, hình chữ nhật, hình thoi và hình vuông.
+•	Kỹ năng đạt được:
+o	Vận dụng dấu hiệu nhận biết để chứng minh một tứ giác là hình bình hành, hình chữ nhật, hình thoi hay hình vuông.
+o	Khai thác tính chất đường chéo của từng loại tứ giác để chứng minh thẳng hàng, vuông góc, bằng nhau.
+•	Bài tập tự luyện: Cho tam giác $ABC$ vuông tại $A$, đường trung tuyến $AM = 6,5\text{ cm}$. Tính độ dài cạnh huyền $BC$.
+Chương 4: Định lí Thalès (Bài 15 - Bài 17)
+•	Ý chính cốt lõi: Thiết lập tỉ số của hai đoạn thẳng, đoạn thẳng tỉ lệ và nội dung định lí Thalès thuận, định lí Thalès đảo cùng hệ quả của định lí Thalès trong tam giác. Nghiên cứu tính chất đường trung bình của tam giác và tính chất đường phân giác trong tam giác.
+•	Kỹ năng đạt được:
+o	Tính độ dài đoạn thẳng chưa biết và chứng minh hai đường thẳng song song bằng định lí Thalès.
+o	Ứng dụng tính chất đường phân giác và đường trung bình để giải các bài toán tỉ số diện tích, độ dài.
+•	Bài tập tự luyện: Cho tam giác $ABC$ có $AB = 6\text{ cm}$, $AC = 9\text{ cm}$. Tia phân giác của góc $A$ cắt cạnh $BC$ tại $D$. Tính tỉ số $\frac{DB}{DC}$.
+Chương 5: Dữ liệu và biểu đồ (Bài 18 - Bài 20)
+•	Ý chính cốt lõi: Nâng cao kỹ năng thu thập, phân loại dữ liệu thống kê và phát hiện dữ liệu không hợp lý. Lựa chọn và chuyển đổi linh hoạt giữa các dạng biểu đồ (cột, cột kép, quạt tròn, đoạn thẳng) để phân tích xu thế và đưa ra nhận xét khoa học.
+•	Kỹ năng đạt được:
+o	Nhận diện được tính hợp lý của dữ liệu thống kê và chọn biểu đồ tối ưu cho từng mục đích phân tích.
+o	Đọc hiểu và so sánh số liệu đa chiều từ các bảng thống kê phức tạp.
+•	Bài tập tự luyện: Nêu ưu điểm nổi bật của biểu đồ đoạn thẳng so với biểu đồ hình quạt tròn khi biểu diễn dữ liệu nhiệt độ trung bình 12 tháng trong năm.
+Chương 6: Phân thức đại số (Bài 21 - Bài 24)
+•	Ý chính cốt lõi: Mở rộng khái niệm phân thức đại số $\frac{A}{B}$ ($B$ là đa thức khác đa thức không), điều kiện xác định và giá trị của phân thức. Nắm vững tính chất cơ bản của phân thức, quy đồng mẫu thức và quy tắc cộng, trừ, nhân, chia các phân thức đại số.
+•	Kỹ năng đạt được:
+o	Tìm được điều kiện xác định của phân thức, rút gọn phân thức bằng cách phân tích tử và mẫu thành nhân tử.
+o	Thực hiện thành thạo các phép toán biến đổi biểu thức hữu tỉ phức tạp.
+•	Bài tập tự luyện: Tìm điều kiện xác định và rút gọn phân thức: $Q = \frac{x^2 - 9}{x^2 + 6x + 9}$.
+Chương 7: Phương trình bậc nhất và hàm số bậc nhất (Bài 25 - Bài 29)
+•	Ý chính cốt lõi: Giải phương trình bậc nhất một ẩn $ax + b = 0$ ($a \ne 0$), phương trình đưa được về dạng bậc nhất và giải bài toán bằng cách lập phương trình. Nghiên cứu khái niệm hàm số, mặt phẳng tọa độ $Oxy$, đồ thị của hàm số bậc nhất $y = ax + b$ và ý nghĩa của hệ số góc $a$.
+•	Kỹ năng đạt được:
+o	Vẽ được đồ thị hàm số $y = ax + b$; xác định vị trí tương đối của hai đường thẳng (song song, cắt nhau, trùng nhau) dựa vào hệ số góc.
+o	Giải quyết các bài toán thực tế về chuyển động, năng suất, cước phí bằng cách lập phương trình.
+•	Bài tập tự luyện: Xác định hệ số góc $a$ và tung độ gốc $b$ của đường thẳng $(d): y = 2x - 4$, sau đó tìm tọa độ giao điểm của $(d)$ với trục hoành $Ox$.
+Chương 8: Mở đầu về tính xác suất của biến cố (Bài 30 - Bài 32)
+•	Ý chính cốt lõi: Phân tích kết quả có thể và kết quả thuận lợi của một biến cố trong phép thử ngẫu nhiên. Thiết lập công thức tính xác suất lí thuyết của biến cố $P(A) = \frac{n(A)}{n(\Omega)}$ và hiểu mối liên hệ tiệm cận giữa xác suất thực nghiệm với xác suất lí thuyết khi số phép thử lớn.
+•	Kỹ năng đạt được:
+o	Liệt kê đầy đủ các kết quả có thể và kết quả thuận lợi để tính chính xác xác suất lí thuyết.
+o	Vận dụng xác suất để dự báo tần suất xuất hiện của sự kiện trong thực tiễn.
+•	Bài tập tự luyện: Một hộp có 15 tấm thẻ được đánh số từ 1 đến 15. Rút ngẫu nhiên một thẻ trong hộp. Tính xác suất của biến cố "Số ghi trên thẻ rút được chia hết cho 4".
+Chương 9: Tam giác đồng dạng (Bài 33 - Bài 37)
+•	Ý chính cốt lõi: Nghiên cứu khái niệm hai tam giác đồng dạng, tỉ số đồng dạng $k$ và ba trường hợp đồng dạng của hai tam giác (c-c-c, c-g-c, g-g). Củng cố định lí Pythagore thuận và đảo, các trường hợp đồng dạng của tam giác vuông và khái niệm hình đồng dạng phối cảnh.
+•	Kỹ năng đạt được:
+o	Chứng minh hai tam giác đồng dạng để suy ra tỉ số cạnh, đẳng thức tích ($AB \cdot AC = AD \cdot AE$) và góc bằng nhau.
+o	Vận dụng định lí Pythagore và tam giác đồng dạng để đo gián tiếp chiều cao, khoảng cách trong thực tế.
+•	Bài tập tự luyện: Cho tam giác $ABC$ đồng dạng với tam giác $DEF$ theo tỉ số đồng dạng $k = \frac{2}{3}$. Biết chu vi tam giác $ABC$ là $24\text{ cm}$, tính chu vi tam giác $DEF$.
+Chương 10: Một số hình khối trong thực tiễn (Bài 38 - Bài 39)
+•	Ý chính cốt lõi: Tìm hiểu đặc điểm cấu tạo của hình chóp tam giác đều và hình chóp tứ giác đều (mặt đáy là đa giác đều, các mặt bên là các tam giác cân bằng nhau chung đỉnh). Thiết lập công thức tính diện tích xung quanh ($S_{xq} = p \cdot d$) và thể tích ($V = \frac{1}{3} S_{\text{đáy}} \cdot h$).
+•	Kỹ năng đạt được:
+o	Phân biệt chiều cao của hình chóp với trung đoạn (chiều cao mặt bên); tính chính xác $S_{xq}$ và $V$.
+o	Ứng dụng tính thể tích các công trình kiến trúc dạng hình chóp trong đời sống.
+•	Bài tập tự luyện: Một hình chóp tứ giác đều có cạnh đáy bằng $6\text{ cm}$ và chiều cao bằng $4\text{ cm}$. Tính thể tích của hình chóp đó.
+TOÁN LỚP 9
+Chương 1: Phương trình và hệ hai phương trình bậc nhất hai ẩn (Bài 1 - Bài 3)
+•	Ý chính cốt lõi: Nghiên cứu phương trình bậc nhất hai ẩn $ax + by = c$, nghiệm tổng quát và biểu diễn hình học tập nghiệm trên mặt phẳng tọa độ. Nắm vững hai phương pháp giải hệ hai phương trình bậc nhất hai ẩn (phương pháp thế và phương pháp cộng đại số) cùng ứng dụng giải bài toán thực tế.
+•	Kỹ năng đạt được:
+o	Giải thành thạo mọi hệ hai phương trình bậc nhất hai ẩn và biện luận số nghiệm của hệ.
+o	Lập hệ phương trình giải các bài toán thực tế về tìm hai số, chuyển động, làm chung công việc, phần trăm.
+•	Bài tập tự luyện: Giải hệ phương trình: $\begin{cases} 2x + y = 7 \\ 3x - 2y = 0 \end{cases}$.
+Chương 2: Phương trình và bất phương trình bậc nhất một biến (Bài 4 - Bài 6)
+•	Ý chính cốt lõi: Nâng cao kỹ năng giải phương trình tích $(ax + b)(cx + d) = 0$ và phương trình chứa ẩn ở mẫu (chú ý điều kiện xác định). Khám phá tính chất liên hệ giữa thứ tự với phép cộng và phép nhân, từ đó giải bất phương trình bậc nhất một ẩn $ax + b > 0$ ($a \ne 0$).
+•	Kỹ năng đạt được:
+o	Đặt điều kiện xác định chính xác và giải thành thạo phương trình chứa ẩn ở mẫu.
+o	Giải bất phương trình bậc nhất một ẩn (lưu ý đổi chiều bất đẳng thức khi nhân/chia với số âm).
+•	Bài tập tự luyện: Giải bất phương trình: $3x - 5 \le 5x + 3$.
+Chương 3: Căn bậc hai và căn bậc ba (Bài 7 - Bài 10)
+•	Ý chính cốt lõi: Nghiên cứu căn thức bậc hai $\sqrt{A}$ (xác định khi $A \ge 0$), hằng đẳng thức $\sqrt{A^2} = |A|$ và các quy tắc khai phương một tích, một thương. Thành thạo phép biến đổi đơn giản căn thức (đưa thừa số ra ngoài/vào trong dấu căn, khử mẫu, trục căn thức ở mẫu) và căn bậc ba $\sqrt[3]{A}$.
+•	Kỹ năng đạt được:
+o	Rút gọn được các biểu thức chứa căn thức bậc hai phức tạp thường xuất hiện trong đề thi vào lớp 10.
+o	Tính được căn bậc ba của một số thực bất kỳ.
+•	Bài tập tự luyện: Rút gọn biểu thức: $P = \sqrt{48} - 2\sqrt{27} + \frac{6}{\sqrt{3}}$.
+Chương 4: Hệ thức lượng trong tam giác vuông (Bài 11 - Bài 12)
+•	Ý chính cốt lõi: Định nghĩa bốn tỉ số lượng giác của góc nhọn ($\sin, \cos, \tan, \cot$), tỉ số lượng giác của hai góc phụ nhau và bảng giá trị lượng giác các góc đặc biệt ($30^\circ, 45^\circ, 60^\circ$). Thiết lập hệ thức giữa cạnh và góc trong tam giác vuông để giải tam giác vuông.
+•	Kỹ năng đạt được:
+o	Tính thành thạo độ dài cạnh và số đo góc trong tam giác vuông thông qua tỉ số lượng giác.
+o	Ứng dụng tỉ số lượng giác để tính chiều cao tháp, góc nâng/góc hạ của máy bay, khoảng cách tàu thuyền.
+•	Bài tập tự luyện: Cho tam giác $ABC$ vuông tại $A$ có $AB = 6\text{ cm}$ và $\widehat{B} = 60^\circ$. Tính độ dài cạnh $AC$ và cạnh huyền $BC$.
+Chương 5: Đường tròn (Bài 13 - Bài 17)
+•	Ý chính cốt lõi: Khám phá tính đối xứng tâm, đối xứng trục của đường tròn, quan hệ vuông góc giữa đường kính và dây cung. Nắm vững công thức tính độ dài đường tròn ($C = 2\pi R$), độ dài cung tròn, diện tích hình quạt tròn, hình vành khuyên cùng tính chất hai tiếp tuyến cắt nhau của đường tròn.
+•	Kỹ năng đạt được:
+o	Chứng minh được một đường thẳng là tiếp tuyến của đường tròn và vận dụng tính chất hai tiếp tuyến cắt nhau.
+o	Tính chính xác diện tích hình quạt tròn và hình vành khuyên.
+•	Bài tập tự luyện: Tính độ dài cung $60^\circ$ của một đường tròn có bán kính $R = 6\text{ cm}$ (lấy $\pi \approx 3,14$).
+Chương 6: Hàm số $y = ax^2$ ($a \ne 0$). Phương trình bậc hai một ẩn (Bài 18 - Bài 21)
+•	Ý chính cốt lõi: Nghiên cứu tính chất đồng biến, nghịch biến và đồ thị hình Parabol của hàm số $y = ax^2$ ($a \ne 0$). Nắm vững công thức nghiệm, công thức nghiệm thu gọn của phương trình bậc hai $ax^2 + bx + c = 0$, hệ thức Viète ($x_1 + x_2 = -\frac{b}{a}$; $x_1 x_2 = \frac{c}{a}$) và ứng dụng giải bài toán thực tế.
+•	Kỹ năng đạt được:
+o	Vẽ thành thạo đồ thị Parabol và tìm tọa độ giao điểm của Parabol với đường thẳng.
+o	Vận dụng hệ thức Viète để tính giá trị biểu thức đối xứng giữa hai nghiệm và tìm tham số $m$ thỏa mãn điều kiện cho trước.
+•	Bài tập tự luyện: Không giải phương trình, hãy tính tổng và tích hai nghiệm của phương trình: $2x^2 - 7x + 3 = 0$.
+Chương 7: Tần số và tần số tương đối (Bài 22 - Bài 24)
+•	Ý chính cốt lõi: Nâng cao kiến thức thống kê thông qua bảng tần số, biểu đồ tần số, bảng tần số tương đối ($f = \frac{m}{N} \cdot 100\%$) và biểu đồ tần số tương đối. Làm quen với bảng tần số ghép nhóm và biểu đồ tần số ghép nhóm để xử lý các tập dữ liệu lớn, liên tục.
+•	Kỹ năng đạt được:
+o	Lập được bảng tần số, tần số tương đối và vẽ biểu đồ tương ứng từ mẫu dữ liệu thống kê.
+o	Đọc và phân tích phân bố dữ liệu từ bảng tần số ghép nhóm.
+•	Bài tập tự luyện: Trong một đợt kiểm tra cân nặng của 40 học sinh, có 10 em đạt mức $45\text{ kg}$. Tính tần số và tần số tương đối của giá trị $45\text{ kg}$.
+Chương 8: Xác suất của biến cố trong một số mô hình xác suất đơn giản (Bài 25 - Bài 26)
+•	Ý chính cốt lõi: Mô tả chính xác phép thử ngẫu nhiên và không gian mẫu $\Omega$ trong các mô hình xác suất phức tạp hơn (gieo đồng xu hai lần, rút thẻ hai lần không hoàn lại/có hoàn lại). Áp dụng công thức cổ điển tính xác suất của biến cố dựa trên không gian mẫu đồng khả năng.
+•	Kỹ năng đạt được:
+o	Liệt kê đầy đủ các phần tử của không gian mẫu $\Omega$ bằng phương pháp lập bảng hoặc sơ đồ hình cây.
+o	Tính chính xác xác suất của các biến cố kết hợp.
+•	Bài tập tự luyện: Gieo một đồng xu cân đối hai lần liên tiếp. Mô tả không gian mẫu và tính xác suất của biến cố "Có ít nhất một lần xuất hiện mặt sấp".
+Chương 9: Đường tròn ngoại tiếp và đường tròn nội tiếp (Bài 27 - Bài 30)
+•	Ý chính cốt lõi: Nghiên cứu định lí về góc nội tiếp (số đo bằng nửa số đo cung bị chắn), góc nội tiếp chắn nửa đường tròn. Khám phá đường tròn ngoại tiếp, đường tròn nội tiếp tam giác, tính chất và dấu hiệu nhận biết tứ giác nội tiếp đường tròn cùng khái niệm đa giác đều.
+•	Kỹ năng đạt được:
+o	Chứng minh được một tứ giác nội tiếp đường tròn (tổng hai góc đối bằng $180^\circ$ hoặc hai đỉnh kề cùng nhìn một cạnh dưới góc bằng nhau).
+o	Vận dụng góc nội tiếp và tứ giác nội tiếp để chứng minh các hệ thức hình học nâng cao.
+•	Bài tập tự luyện: Cho tứ giác $ABCD$ nội tiếp đường tròn tâm $O$, biết $\widehat{A} = 75^\circ$ và $\widehat{B} = 110^\circ$. Tính số đo góc $C$ và góc $D$.
+Chương 10: Một số hình khối trong thực tiễn (Bài 31 - Bài 32)
+•	Ý chính cốt lõi: Khám phá các hình tròn xoay trong không gian: hình trụ, hình nón và hình cầu. Thiết lập hệ thống công thức tính diện tích xung quanh và thể tích của hình trụ ($V = \pi R^2 h$), hình nón ($V = \frac{1}{3}\pi R^2 h$) và diện tích mặt cầu ($S = 4\pi R^2$), thể tích hình cầu ($V = \frac{4}{3}\pi R^3$).
+•	Kỹ năng đạt được:
+o	Nhận diện các yếu tố bán kính đáy, đường cao, đường sinh của hình trụ và hình nón; tính chính xác diện tích và thể tích.
+o	Giải quyết các bài toán thực tế về thể tích lon nước, bồn chứa nước, vật thể hình cầu.
+•	Bài tập tự luyện: Một hình trụ có bán kính đáy $R = 5\text{ cm}$ và chiều cao $h = 10\text{ cm}$. Tính diện tích xung quanh và thể tích của hình trụ đó (lấy $\pi \approx 3,14$).

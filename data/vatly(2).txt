@@ -1,0 +1,2 @@
+﻿•	Trọng tâm: Cơ học (chuyển động, lực, công suất, cơ năng, áp suất - lực đẩy Archimedes); Nhiệt học (phương trình cân bằng nhiệt, sự chuyển thể); Điện học (mạch điện phức tạp, định luật Ohm, mạch cầu, công suất cực đại PmaxP_{max}Pmax); Quang học (thấu kính, hệ thấu kính, ảnh sáng).
+•	Kỹ năng: Thiết lập biểu thức toán học, phân tích mạch điện phức tạp, giải quyết bài toán đồ thị vật lý.

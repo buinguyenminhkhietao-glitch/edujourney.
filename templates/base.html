@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}EduJourney{% endblock %}</title>
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary-color: #4A90E2;
+            --secondary-color: #50E3C2;
+            --bg-color: #F7F9FC;
+            --text-color: #333;
+            --card-bg: #FFFFFF;
+        }
+        body {
+            font-family: 'Quicksand', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+        .navbar {
+            background-color: var(--card-bg);
+            padding: 15px 40px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        .navbar h1 {
+            margin: 0;
+            font-size: 24px;
+            color: var(--primary-color);
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .nav-links a {
+            text-decoration: none;
+            color: var(--text-color);
+            font-weight: 600;
+            margin-left: 25px;
+            transition: color 0.3s ease;
+        }
+        .nav-links a:hover {
+            color: var(--primary-color);
+        }
+        .nav-links .admin-btn {
+            color: #E74C3C;
+        }
+        .container {
+            flex: 1;
+            max-width: 1000px;
+            margin: 30px auto;
+            padding: 0 20px;
+            width: 100%;
+        }
+        .footer {
+            text-align: center;
+            padding: 20px;
+            color: #888;
+            font-size: 14px;
+            margin-top: auto;
+        }
+        {% block extra_css %}{% endblock %}
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <h1>🎓 EduJourney</h1>
+        <div class="nav-links">
+            <a href="/">Trang chủ</a>
+            <a href="/hsg">Học sinh giỏi</a>
+            <a href="/quiz">Quiz</a>
+            <a href="/admin" class="admin-btn">Quản trị</a>
+        </div>
+    </nav>
+
+    <div class="container">
+        {% block content %}{% endblock %}
+    </div>
+
+    <footer class="footer">
+        &copy; 2026 EduJourney - Dự án Khởi nghiệp Sáng tạo
+    </footer>
+</body>
+</html>

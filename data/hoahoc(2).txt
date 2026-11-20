@@ -1,0 +1,2 @@
+﻿•	Trọng tâm: Hóa vô cơ (chuỗi phản ứng, bài toán hỗn hợp kim loại/oxit tác dụng với axit, bảo toàn khối lượng/nguyên tố, tăng giảm khối lượng); Hóa hữu cơ (hydrocarbon, alcohol, carboxylic acid, ester, phản ứng cháy, biện luận tìm CTPT).
+•	Kỹ năng: Tính toán nhanh bằng phương pháp bảo toàn, lập luận logic cấu trúc phân tử.

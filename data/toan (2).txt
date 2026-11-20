@@ -1,0 +1,2 @@
+﻿•	Trọng tâm: Biểu thức đại số nâng cao, phương trình vô tỉ, hệ phương trình, bất đẳng thức (Cauchy, Bunhiacopski) và tìm cực trị (GTLN/GTNN), số học (chia hết, số nguyên tố, phương trình nghiệm nguyên), hình học phẳng nâng cao (tứ giác nội tiếp, đồng quy, hàng điểm điều hòa).
+•	Kỹ năng: Tư duy biến đổi tương đương, phương pháp phản chứng, dựng hình phụ trong hình học.

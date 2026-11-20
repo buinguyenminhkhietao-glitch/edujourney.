@@ -1,0 +1,142 @@
+﻿TIN HỌC LỚP 6
+Chủ đề 1: Máy tính và cộng đồng (Bài 1 - Bài 3)
+•	Ý chính cốt lõi: Phân biệt thông tin và dữ liệu (vật mang tin), nắm vững quy trình xử lý thông tin gồm 3 bước (Tiếp nhận dữ liệu $\rightarrow$ Xử lý dữ liệu $\rightarrow$ Xuất kết quả). Tìm hiểu cách máy tính biểu diễn thông tin bằng dãy bit ($0$ và $1$) cùng hệ thống đơn vị đo dung lượng dữ liệu ($1\text{ Byte} = 8\text{ bit}$, $\text{KB, MB, GB, TB}$).
+•	Kỹ năng đạt được:
+o	Phân biệt được dữ liệu (văn bản, hình ảnh, âm thanh) với thông tin thu nhận được.
+o	Quy đổi thành thạo giữa các đơn vị đo dung lượng thông tin cơ bản.
+•	Bài tập tự luyện: Một thẻ nhớ có dung lượng $4\text{ GB}$ có thể chứa được tối đa khoảng bao nhiêu bức ảnh, biết mỗi bức ảnh có dung lượng trung bình là $2\text{ MB}$?
+Chủ đề 2: Mạng máy tính và Internet (Bài 4 - Bài 5)
+•	Ý chính cốt lõi: Khám phá khái niệm mạng máy tính, lợi ích của việc kết nối mạng (chia sẻ tài nguyên, truyền thông tin nhanh chóng) và các thành phần chính của mạng (thiết bị đầu cuối, thiết bị kết nối mạng như Switch/Router, phần mềm mạng). Tìm hiểu đặc điểm của Internet là mạng toàn cầu kết nối hàng tỉ máy tính và thiết bị số.
+•	Kỹ năng đạt được:
+o	Nhận diện được các thiết bị kết nối mạng có dây và không dây (Wi-Fi) trong gia đình và trường học.
+o	Kể tên được các dịch vụ phổ biến trên Internet phục vụ học tập và giải trí.
+•	Bài tập tự luyện: Nêu 3 lợi ích thiết thực của mạng máy tính đối với việc học tập của học sinh.
+Chủ đề 3: Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin (Bài 6 - Bài 8)
+•	Ý chính cốt lõi: Tìm hiểu mạng thông tin toàn cầu World Wide Web (WWW), khái niệm website, trang web, siêu liên kết và trình duyệt web. Nắm vững kỹ thuật sử dụng máy tìm kiếm (Google, Bing) bằng từ khóa chính xác và cấu trúc, cách sử dụng dịch vụ thư điện tử (Email) để trao đổi thông tin nhanh chóng.
+•	Kỹ năng đạt được:
+o	Sử dụng thành thạo từ khóa tìm kiếm thông tin chính xác trên trình duyệt web.
+o	Tạo tài khoản, soạn thảo, gửi thư điện tử có đính kèm tệp tin và quản lý hộp thư đến an toàn.
+•	Bài tập tự luyện: Phân biệt sự khác nhau giữa "Trang web" (Web page) và "Website".
+Chủ đề 4: Đạo đức, pháp luật và văn hóa trong môi trường số (Bài 9)
+•	Ý chính cốt lõi: Nhận diện những nguy cơ, tác hại tiềm ẩn trên Internet (virus máy tính, lừa đảo trực tuyến, thông tin xấu độc, nghiện mạng xã hội, lộ lọt thông tin cá nhân). Trang bị các nguyên tắc vàng để bảo vệ an toàn thông tin cá nhân và giữ gìn danh dự trên không gian mạng.
+•	Kỹ năng đạt được:
+o	Tạo được mật khẩu mạnh (kết hợp chữ hoa, chữ thường, số và kí tự đặc biệt) và không chia sẻ mật khẩu cho người lạ.
+o	Biết cách kiểm chứng thông tin và báo cáo cho người lớn khi gặp nội dung đe dọa, lừa đảo trực tuyến.
+•	Bài tập tự luyện: Nêu 4 quy tắc an toàn em cần tuân thủ để bảo vệ thông tin cá nhân khi sử dụng Internet.
+Chủ đề 5: Ứng dụng tin học (Bài 10 - Bài 14)
+•	Ý chính cốt lõi: Khám phá phương pháp tóm tắt, hệ thống hóa kiến thức bằng Sơ đồ tư duy (Mind map) thủ công và bằng phần mềm. Thành thạo các kỹ năng soạn thảo văn bản nâng cao trên phần mềm Word: định dạng kí tự, định dạng đoạn văn, định dạng trang in, trình bày thông tin dưới dạng bảng biểu và sử dụng công cụ tìm kiếm, thay thế.
+•	Kỹ năng đạt được:
+o	Vẽ được sơ đồ tư duy khoa học để tóm tắt nội dung một bài học bất kỳ.
+o	Soạn thảo, định dạng, chèn bảng và sử dụng công cụ Find and Replace hoàn thiện văn bản chuyên nghiệp.
+•	Bài tập tự luyện: Trình bày các bước để chèn một bảng gồm 4 cột và 5 hàng vào văn bản trên phần mềm soạn thảo văn bản.
+Chủ đề 6: Giải quyết vấn đề với sự trợ giúp của máy tính (Bài 15 - Bài 17)
+•	Ý chính cốt lõi: Tiếp cận tư duy lập trình thông qua khái niệm thuật toán (dãy hữu hạn các bước thao tác theo trình tự xác định để giải quyết một bài toán) và hai cách mô tả thuật toán (liệt kê các bước và sơ đồ khối). Nghiên cứu ba cấu trúc điều khiển cơ bản (tuần tự, rẽ nhánh, lặp) và bước đầu chuyển thuật toán thành chương trình trên môi trường lập trình trực quan Scratch.
+•	Kỹ năng đạt được:
+o	Mô tả được thuật toán giải quyết các bài toán đơn giản (tính tổng, tìm số lớn nhất) bằng sơ đồ khối.
+o	Viết được kịch bản điều khiển nhân vật di chuyển, rẽ nhánh và lặp lại hành động trong Scratch.
+•	Bài tập tự luyện: Mô tả thuật toán tính chu vi và diện tích hình chữ nhật có chiều dài $a$, chiều rộng $b$ bằng cách liệt kê các bước.
+TIN HỌC LỚP 7
+Chủ đề 1: Máy tính và cộng đồng (Bài 1 - Bài 3)
+•	Ý chính cốt lõi: Phân loại chi tiết các thiết bị vào (bàn phím, chuột, micro, máy quét) và thiết bị ra (màn hình, máy in, loa, máy chiếu) của máy tính. Phân biệt chức năng của phần mềm hệ thống (hệ điều hành Windows, macOS, Linux) với phần mềm ứng dụng, đồng thời nắm vững kỹ năng quản lý tệp, thư mục và bảo vệ dữ liệu (sao lưu, quét virus).
+•	Kỹ năng đạt được:
+o	Phân loại chính xác các thiết bị ngoại vi thông dụng và thực hiện các thao tác sao chép, di chuyển, xóa, đổi tên thư mục khoa học.
+o	Thực hiện sao lưu dữ liệu quan trọng sang ổ đĩa ngoài hoặc đám mây để phòng tránh mất mát dữ liệu.
+•	Bài tập tự luyện: Màn hình cảm ứng trên điện thoại thông minh thuộc loại thiết bị vào hay thiết bị ra? Giải thích vì sao.
+Chủ đề 2: Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin (Bài 4)
+•	Ý chính cốt lõi: Khám phá đặc điểm của mạng xã hội (Facebook, YouTube, Zalo, TikTok) và các kênh trao đổi thông tin trực tuyến phổ biến. Phân tích những mặt tích cực (kết nối bạn bè, chia sẻ kiến thức học tập) và những mặt trái của mạng xã hội (tin giả, mất thời gian, xâm phạm quyền riêng tư).
+•	Kỹ năng đạt được:
+o	Sử dụng mạng xã hội đúng mục đích phục vụ học tập và kết nối lành mạnh.
+o	Nhận diện và không chia sẻ các thông tin chưa được kiểm chứng trên mạng xã hội.
+•	Bài tập tự luyện: Nêu 3 lợi ích và 3 nguy cơ tiềm ẩn khi học sinh sử dụng mạng xã hội.
+Chủ đề 3: Đạo đức, pháp luật và văn hóa trong môi trường số (Bài 5)
+•	Ý chính cốt lõi: Xây dựng chuẩn mực văn hóa ứng xử lịch sự, tôn trọng người khác khi giao tiếp qua mạng (Netiquette). Nắm vững quy định pháp luật nghiêm cấm hành vi xúc phạm danh dự, nhân phẩm, bôi nhọ người khác trên không gian mạng và cách ứng phó khi bị bắt nạt qua mạng (Cyberbullying).
+•	Kỹ năng đạt được:
+o	Giao tiếp trực tuyến văn minh, sử dụng ngôn ngữ chuẩn mực, tôn trọng quyền riêng tư của người khác.
+o	Biết lưu giữ bằng chứng (chụp màn hình) và báo cáo cho gia đình, nhà trường khi bị quấy rối trực tuyến.
+•	Bài tập tự luyện: Khi nhận được một tin nhắn có nội dung đe dọa hoặc xúc phạm từ một tài khoản lạ trên mạng xã hội, em nên làm gì?
+Chủ đề 4: Ứng dụng tin học (Bài 6 - Bài 13)
+•	Ý chính cốt lõi: Thành thạo hai công cụ văn phòng cốt lõi: Phần mềm bảng tính điện tử (Excel) với kỹ năng nhập dữ liệu, sử dụng công thức toán học, các hàm tính toán cơ bản (SUM, AVERAGE, MAX, MIN), định dạng bảng tính và phần mềm trình chiếu (PowerPoint) với kỹ năng thiết kế slide, định dạng văn bản, chèn hình ảnh và tạo hiệu ứng động hợp lý.
+•	Kỹ năng đạt được:
+o	Sử dụng địa chỉ ô tính và các hàm cơ bản trong Excel để tính toán tự động bảng điểm, bảng chi tiêu.
+o	Thiết kế được bài trình chiếu ngắn gọn, thẩm mỹ, có bố cục rõ ràng phục vụ thuyết trình nhóm.
+•	Bài tập tự luyện: Viết công thức sử dụng hàm trong Excel để tính điểm trung bình của 3 môn Toán, Văn, Anh nằm lần lượt tại các ô C4, D4, E4.
+Chủ đề 5: Giải quyết vấn đề với sự trợ giúp của máy tính (Bài 14 - Bài 16)
+•	Ý chính cốt lõi: Nghiên cứu các thuật toán xử lý dữ liệu kinh điển trong tin học: thuật toán tìm kiếm tuần tự (duyệt lần lượt từ đầu đến cuối danh sách), thuật toán tìm kiếm nhị phân (áp dụng trên danh sách đã sắp xếp bằng cách chia đôi phạm vi tìm kiếm) và các thuật toán sắp xếp cơ bản (sắp xếp nổi bọt, sắp xếp chọn).
+•	Kỹ năng đạt được:
+o	Mô phỏng được từng bước chạy của thuật toán tìm kiếm tuần tự, tìm kiếm nhị phân và sắp xếp trên một dãy số nhỏ.
+o	So sánh được hiệu quả tốc độ vượt trội của tìm kiếm nhị phân so với tìm kiếm tuần tự trên danh sách lớn.
+•	Bài tập tự luyện: Cho dãy số đã sắp xếp: $2, 5, 8, 12, 16, 23, 38$. Trình bày các bước tìm số $23$ trong dãy trên bằng thuật toán tìm kiếm nhị phân.
+TIN HỌC LỚP 8
+Chủ đề 1: Máy tính và cộng đồng (Bài 1)
+•	Ý chính cốt lõi: Khám phá lịch sử phát triển lâu đời của công cụ tính toán từ bàn tính cổ đại, máy tính cơ học của Pascal, Babbage đến các thế hệ máy tính điện tử hiện đại (sử dụng đèn điện tử chân không, bóng bán dẫn, mạch tích hợp IC và vi xử lý). Đánh giá tác động cách mạng của máy tính đối với mọi lĩnh vực đời sống xã hội.
+•	Kỹ năng đạt được:
+o	Trình bày được các dấu mốc quan trọng trong quá trình phát triển từ máy tính cơ học sang máy tính điện tử.
+o	Nhận diện được xu hướng thu nhỏ kích thước nhưng tăng vượt bậc tốc độ xử lý của máy tính hiện đại.
+•	Bài tập tự luyện: Linh kiện điện tử cơ bản nào đã tạo nên bước ngoặt cho sự ra đời của máy tính thế hệ thứ ba (máy tính cỡ nhỏ và siêu máy tính)?
+Chủ đề 2: Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin (Bài 2 - Bài 3)
+•	Ý chính cốt lõi: Tìm hiểu đặc điểm của thông tin trong môi trường số (khối lượng khổng lồ, đa dạng định dạng, dễ sao chép lan truyền, nhưng độ tin cậy không đồng đều). Rèn luyện kỹ năng khai thác, đánh giá tính chính xác, tính cập nhật và độ tin cậy của nguồn thông tin số phục vụ giải quyết vấn đề.
+•	Kỹ năng đạt được:
+o	Sử dụng các toán tử tìm kiếm nâng cao (dấu ngoặc kép " ", site:, filetype:) để lọc kết quả chính xác.
+o	Đánh giá được độ tin cậy của một bài báo mạng dựa trên tên miền, tác giả và nguồn dẫn chứng.
+•	Bài tập tự luyện: Nêu 3 tiêu chí quan trọng giúp em kiểm chứng một thông tin đọc được trên Internet là tin thật hay tin giả (Fake news).
+Chủ đề 3: Đạo đức, pháp luật và văn hóa trong môi trường số (Bài 4)
+•	Ý chính cốt lõi: Nghiên cứu các quy định pháp luật về bản quyền, quyền tác giả đối với các sản phẩm số (phần mềm, âm nhạc, hình ảnh, văn bản) theo Luật Sở hữu trí tuệ. Nhận diện các hành vi vi phạm đạo đức và pháp luật khi sử dụng công nghệ kỹ thuật số (sao chép lậu, bẻ khóa phần mềm, đạo văn).
+•	Kỹ năng đạt được:
+o	Tôn trọng bản quyền tác giả, luôn ghi rõ nguồn trích dẫn khi sử dụng hình ảnh, tài liệu từ Internet.
+o	Sử dụng phần mềm có bản quyền hoặc phần mềm nguồn mở miễn phí hợp pháp.
+•	Bài tập tự luyện: Hành vi tải một bức ảnh của nhiếp ảnh gia trên mạng về, xóa tên tác giả rồi đăng lên trang cá nhân nhận là của mình có vi phạm pháp luật không? Vì sao?
+Chủ đề 4: Ứng dụng tin học (Bài 5 - Bài 11a/11b)
+•	Ý chính cốt lõi: Nâng cao kỹ năng xử lý dữ liệu bảng tính thông qua địa chỉ tương đối, địa chỉ tuyệt đối ($A$1), sắp xếp, lọc dữ liệu và trực quan hóa bằng biểu đồ (cột, tròn, đường). Đồng thời mở rộng kỹ năng soạn thảo văn bản nâng cao (danh sách liệt kê, đầu trang, chân trang), thiết kế bài trình chiếu theo bản mẫu (Template) hoặc chỉnh sửa ảnh cơ bản (cắt ảnh, chỉnh kích thước, tạo hiệu ứng).
+•	Kỹ năng đạt được:
+o	Sử dụng chính xác địa chỉ tuyệt đối khi sao chép công thức tính tỉ lệ phần trăm hoặc đơn giá cố định trong Excel.
+o	Tạo được biểu đồ trực quan từ bảng dữ liệu đã lọc và thiết kế văn bản/hình ảnh chuyên nghiệp.
+•	Bài tập tự luyện: Phân biệt sự khác nhau giữa địa chỉ tương đối B2 và địa chỉ tuyệt đối $B$2 khi sao chép công thức sang ô khác trong phần mềm bảng tính.
+Chủ đề 5: Giải quyết vấn đề với sự trợ giúp của máy tính (Bài 12 - Bài 15)
+•	Ý chính cốt lõi: Nâng cao tư duy lập trình thông qua việc chuyển đổi từ thuật toán sang chương trình máy tính hoàn chỉnh (trên Scratch hoặc Python). Nghiên cứu khái niệm biến, hằng, các kiểu dữ liệu cơ bản (số nguyên, số thực, xâu kí tự, logic), biểu thức toán học, ba cấu trúc điều khiển (tuần tự, rẽ nhánh thiếu/đủ, lặp với số lần biết trước/chưa biết trước) và kỹ thuật tìm, sửa lỗi chương trình (Debugging).
+•	Kỹ năng đạt được:
+o	Khai báo và sử dụng biến để lưu trữ dữ liệu thay đổi trong quá trình thực hiện chương trình.
+o	Viết được chương trình hoàn chỉnh có sử dụng cấu trúc rẽ nhánh và vòng lặp, đồng thời phát hiện sửa lỗi cú pháp và lỗi logic.
+•	Bài tập tự luyện: Phân biệt sự khác nhau giữa "lỗi cú pháp" (Syntax error) và "lỗi logic" (Logic error) khi viết chương trình máy tính.
+Chủ đề 6: Hướng nghiệp với tin học (Bài 16)
+•	Ý chính cốt lõi: Khám phá vai trò thiết yếu của tin học trong mọi ngành nghề hiện đại và tìm hiểu các nhóm nghề nghiệp chuyên sâu trong lĩnh vực công nghệ thông tin (lập trình viên, quản trị mạng, phân tích dữ liệu, thiết kế đồ họa). Phân tích vấn đề bình đẳng giới trong lĩnh vực tin học.
+•	Kỹ năng đạt được:
+o	Kể tên được các nghề nghiệp tiêu biểu thuộc lĩnh vực tin học và yêu cầu năng lực của từng nghề.
+o	Khẳng định nam và nữ đều có cơ hội và năng lực phát triển ngang nhau trong ngành công nghệ thông tin.
+•	Bài tập tự luyện: Kể tên 3 nghề nghiệp phổ biến trong lĩnh vực Tin học và mô tả ngắn gọn công việc chính của từng nghề.
+TIN HỌC LỚP 9
+Chủ đề 1: Máy tính và cộng đồng (Bài 1)
+•	Ý chính cốt lõi: Khám phá sự phát triển bùng nổ của thế giới kỹ thuật số với sự tích hợp bộ vi xử lý thông minh vào mọi thiết bị gia dụng, công nghiệp và y tế (Internet vạn vật - IoT). Đánh giá những tác động tích cực (tự động hóa, tiện nghi, kết nối toàn cầu) và tiêu cực (lệ thuộc công nghệ, rác thải điện tử, nguy cơ mất an toàn bảo mật) của công nghệ số đối với xã hội.
+•	Kỹ năng đạt được:
+o	Nhận diện được các thiết bị thông minh có gắn bộ vi xử lý trong đời sống hằng ngày.
+o	Sử dụng thiết bị số một cách cân bằng, có trách nhiệm và bảo vệ môi trường.
+•	Bài tập tự luyện: Nêu 3 ví dụ về thiết bị thông minh trong gia đình hiện đại có tích hợp bộ vi xử lý để tự động hóa công việc.
+Chủ đề 2: Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin (Bài 2 - Bài 3)
+•	Ý chính cốt lõi: Nâng cao năng lực xử lý thông tin phục vụ giải quyết vấn đề thực tiễn. Thiết lập bộ bốn tiêu chí đánh giá chất lượng thông tin: tính chính xác (Accuracy), tính mới/cập nhật (Currency), tính đầy đủ (Completeness) và tính sử dụng được/phù hợp mục đích (Relevance).
+•	Kỹ năng đạt được:
+o	Vận dụng bộ 4 tiêu chí để thẩm định, chọn lọc thông tin chất lượng cao từ nhiều nguồn khác nhau khi làm dự án nghiên cứu.
+o	Loại bỏ các thông tin lỗi thời, thiếu căn cứ hoặc không liên quan đến mục tiêu tìm kiếm.
+•	Bài tập tự luyện: Khi tìm kiếm tài liệu về tình hình kinh tế Việt Nam năm 2026 để làm báo cáo, tiêu chí nào về chất lượng thông tin cần được đặt lên hàng đầu? Vì sao?
+Chủ đề 3: Đạo đức, pháp luật và văn hóa trong môi trường số (Bài 4)
+•	Ý chính cốt lõi: Hệ thống hóa các quy định pháp lý quan trọng khi sử dụng dịch vụ Internet theo Luật An ninh mạng và Bộ luật Hình sự Việt Nam. Phân tích rõ các hành vi vi phạm pháp luật nghiêm trọng trên không gian mạng (phát tán virus, tấn công mạng, lừa đảo chiếm đoạt tài sản, tung tin giả gây hoang mang dư luận, xâm phạm bí mật đời tư) và chế tài xử phạt.
+•	Kỹ năng đạt được:
+o	Nhận diện ranh giới giữa hành vi hợp pháp và hành vi vi phạm pháp luật trên Internet để tự điều chỉnh hành vi.
+o	Tuyên truyền mọi người tuân thủ pháp luật khi tham gia môi trường số.
+•	Bài tập tự luyện: Nêu 4 hành vi bị nghiêm cấm trên không gian mạng theo quy định của Luật An ninh mạng Việt Nam.
+Chủ đề 4: Ứng dụng tin học (Bài 5 - Bài 13a/13b)
+•	Ý chính cốt lõi: Khám phá phần mềm mô phỏng thực tế ảo (PhET, Crocodile Physics/Chemistry) hỗ trợ thí nghiệm khoa học an toàn, trực quan, cùng kỹ năng sử dụng sơ đồ tư duy/bài trình chiếu trong hợp tác nhóm. Chuyên sâu về bảng tính nâng cao với các hàm điều kiện (COUNTIF, SUMIF, IF) và công cụ xác thực dữ liệu (Data Validation) để quản lý tài chính gia đình, hoặc kỹ năng dựng, biên tập video chuyên nghiệp.
+•	Kỹ năng đạt được:
+o	Sử dụng thành thạo các hàm IF, COUNTIF, SUMIF và Data Validation để tự động hóa thống kê và hạn chế sai sót nhập liệu trong Excel.
+o	Khai thác phần mềm mô phỏng để quan sát các hiện tượng khoa học khó thực hiện trực tiếp.
+•	Bài tập tự luyện: Viết công thức hàm COUNTIF trong Excel để đếm số học sinh đạt điểm Giỏi (từ 8.0 trở lên) trong vùng dữ liệu từ ô D2 đến ô D40.
+Chủ đề 5: Giải quyết vấn đề với sự trợ giúp của máy tính (Bài 14 - Bài 16)
+•	Ý chính cốt lõi: Hệ thống hóa quy trình 5 bước giải quyết một bài toán trên máy tính: Xác định bài toán (Input - Output) $\rightarrow$ Xây dựng thuật toán $\rightarrow$ Viết chương trình $\rightarrow$ Chạy thử và hiệu chỉnh $\rightarrow$ Viết tài liệu hướng dẫn. Thực hành lập trình giải quyết các bài toán tin học tổng hợp bằng ngôn ngữ lập trình bậc cao.
+•	Kỹ năng đạt được:
+o	Phân tích chính xác dữ liệu đầu vào (Input) và kết quả đầu ra (Output) của một bài toán tin học.
+o	Viết và kiểm thử chương trình bằng nhiều bộ dữ liệu (Test cases) khác nhau để đảm bảo chương trình chạy đúng mọi trường hợp.
+•	Bài tập tự luyện: Xác định Input và Output của bài toán: "Kiểm tra xem một số nguyên dương $N$ nhập từ bàn phím có phải là số nguyên tố hay không".
+Chủ đề 6: Hướng nghiệp với tin học (Bài 17)
+•	Ý chính cốt lõi: Tổng kết hành trình hướng nghiệp cấp THCS với bức tranh toàn cảnh về thị trường lao động ngành Công nghệ thông tin và chuyển đổi số tại Việt Nam. Định hướng lộ trình học tập tiếp theo ở bậc THPT hoặc giáo dục nghề nghiệp cho học sinh yêu thích tin học.
+•	Kỹ năng đạt được:
+o	Tự đánh giá mức độ phù hợp của bản thân (tư duy logic, tính kiên trì, khả năng ngoại ngữ) với các ngành nghề tin học.
+o	Lựa chọn tổ hợp môn học phù hợp khi bước vào lớp 10 THPT.
+•	Bài tập tự luyện: Nêu 3 tố chất quan trọng cần rèn luyện nếu em muốn theo đuổi nghề Lập trình viên hoặc Kỹ sư Trí tuệ nhân tạo (AI) trong tương lai.
